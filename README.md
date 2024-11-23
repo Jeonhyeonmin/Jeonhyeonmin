@@ -20,11 +20,6 @@
 
 ---
 
-<!-- 확장된 기술 스택 섹션 -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&width=435&lines=Tech+Stack+%F0%9F%92%BB" alt="Tech Stack"/>
-</div>
-
 <!-- 개발 도구 배너 섹션 -->
 <div align="center">
   <h3>💻 Development Tools</h3>
