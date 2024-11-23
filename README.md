@@ -22,6 +22,7 @@
 
 <!-- 개발 도구 배너 섹션 -->
 <div align="center">
+  <br>
   <h3>💻 Development Tools</h3>
   <img src="https://img.shields.io/badge/Unity-E60012?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -45,20 +46,23 @@
   <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe%20after%20effects&logoColor=white"/>
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
   <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white"/>
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=DaVinci+Resolve&color=233A51&logo=DaVinci+Resolve&logoColor=FFFFFF&label=" /><br><br>
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=DaVinci+Resolve&color=233A51&logo=DaVinci+Resolve&logoColor=FFFFFF&label=" /><br>
 </div>
 
 ---
 
 <!-- 전문가 수준 섹션 -->
 <div align="center">
+  <br>
   <h3>💡 Expertise Level</h3>
   <img src="https://skillicons.dev/icons?i=unity,cs,python,dotnet,git,github,photoshop,aftereffects" />
+  <br>
 </div>
 
 ---
 
 <div align="center">
+  <br>
   <h3>📈 Recent Activity</h3>
   <img src="https://ghchart.rshah.org/Jeonhyeonmin" alt="GitHub Activity Chart" width="100%" />
 </div>
