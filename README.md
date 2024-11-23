@@ -51,19 +51,6 @@
 
 <br><br>
 
-<!-- Technical Skills 섹션 -->
-<div align="center">
-  <h3 style="font-size: 1.8em; color: #A960FF; margin-bottom: 15px;">💻 Technical Skills</h3>
-  <hr style="width: 80px; border-top: 3px solid #A960FF; margin: 10px auto;">
-  
-  <div style="font-size: 1.1em; color: #333; line-height: 1.8; text-align: left; width: 80%; margin: 0 auto;">
-    <p>🛠️ System Architecture</p>
-    <p>🎲 Gameplay Programming</p>
-    <p>🔍 Code Optimization</p>
-    <p>📱 Cross-Platform Dev</p>
-  </div>
-</div>
-
 ---
 
 <!-- GitHub 통계 섹션 -->
