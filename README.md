@@ -57,28 +57,34 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=30&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&width=435&lines=Development+Focus+%F0%9F%8E%AF" alt="Focus"/>
 </div>
 
-<table align="center">
-<tr>
-<td width="50%">
+<br><br> <!-- 공백 추가 -->
 
-### 🚀 Core Expertise
-- 🎮 Advanced Game Systems
-- 🤖 AI & Machine Learning
-- 🔧 Performance Optimization
-- 📊 Data-Driven Development
+<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+  <!-- Core Expertise 카드 -->
+  <div style="background: #f8f9fa; border-radius: 10px; padding: 20px; width: 250px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); text-align: center;">
+    <h3>🚀 Core Expertise</h3>
+    <ul style="list-style-type: none; padding: 0;">
+      <li>🎮 Advanced Game Systems</li>
+      <li>🤖 AI & Machine Learning</li>
+      <li>🔧 Performance Optimization</li>
+      <li>📊 Data-Driven Development</li>
+    </ul>
+  </div>
 
-</td>
-<td width="50%">
+  <!-- Technical Skills 카드 -->
+  <div style="background: #f8f9fa; border-radius: 10px; padding: 20px; width: 250px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); text-align: center;">
+    <h3>💻 Technical Skills</h3>
+    <ul style="list-style-type: none; padding: 0;">
+      <li>🛠️ System Architecture</li>
+      <li>🎲 Gameplay Programming</li>
+      <li>🔍 Code Optimization</li>
+      <li>📱 Cross-Platform Dev</li>
+    </ul>
+  </div>
+</div>
 
-### 💻 Technical Skills
-- 🛠️ System Architecture
-- 🎲 Gameplay Programming
-- 🔍 Code Optimization
-- 📱 Cross-Platform Dev
+<br><br> <!-- 공백 추가 -->
 
-</td>
-</tr>
-</table>
 
 ---
 
