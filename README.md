@@ -85,12 +85,11 @@
   </div>
 </div>
 
-<br><br>
-
 ---
 
 <!-- GitHub 통계 섹션 -->
 <div align="center">
+  <br><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=600&size=30&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&width=435&lines=GitHub+Statistics+%F0%9F%93%88" alt="Stats"/>
 </div>
 
