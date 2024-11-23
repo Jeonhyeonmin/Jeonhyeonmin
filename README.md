@@ -44,17 +44,20 @@
   <img src="https://skillicons.dev/icons?i=photoshop,aftereffects,illustrator,pr" /><br><br>
 </div>
 
-<!-- 스킬 진행바 개선 -->
+<!-- 전문가 수준 섹션 -->
 <div align="center">
   <h2>💡 Expertise Level</h2>
   <img src="https://skillicons.dev/icons?i=unity,cs,python,dotnet,git,github" /><br><br>
 </div>
 
+<br><br> <!-- 공백 추가 -->
 
 <!-- 개발 포커스 섹션 -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=30&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&width=435&lines=Development+Focus+%F0%9F%8E%AF" alt="Focus"/>
 </div>
+
+<br><br> <!-- 공백 추가 -->
 
 <table align="center">
 <tr>
