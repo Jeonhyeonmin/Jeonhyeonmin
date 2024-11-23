@@ -81,8 +81,18 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Jeonhyeonmin&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
+<br>
+
+<!-- GitHub 통계 섹션 -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=600&size=30&duration=3000&pause=1000&color=4c88ff&center=true&vCenter=true&width=435&lines=GitHub+Statistics+%F0%9F%93%88" alt="Stats"/>
+</div>
+
+<!-- 백준 프로필 배지 타이틀 -->
+<div align="center">
+  <h3 style="color: #4c88ff; font-family: 'IBM Plex Mono', monospace;">
+    백준 프로필 🌟
+  </h3>
 </div>
 
 <!-- 백준 프로필 배지 -->
@@ -91,6 +101,7 @@
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=narim144" alt="Solved.ac Profile"/>
   </a>
 </div>
+
 
 <br>
 <hr>
