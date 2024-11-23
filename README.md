@@ -85,14 +85,9 @@
 <hr>
 <br>
 
-<!-- 백준 프로필 배지 타이틀 -->
+<!-- 백준 코드 -->
 <div align="center">
-  <h1 style="color: #4c88ff; font-family: 'IBM Plex Mono', monospace; font-weight: bold; 
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); 
-    display: inline-block; overflow: hidden; white-space: nowrap; 
-    border-right: 4px solid #4c88ff; animation: typing 3s steps(30) 1s 1 normal both, blink 0.75s step-end infinite;">
-    Backjoon Profile 🌟
-  </h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=600&size=30&duration=3000&pause=1000&color=4c88ff&center=true&vCenter=true&width=435&lines=Backjoon+Rank+%F0%9F%93%88" alt="Ranks"/>
 </div>
 
 <!-- 백준 프로필 배지와 Mazandi 프로필 배지 가로 정렬 -->
@@ -105,29 +100,6 @@
     <img src="http://mazandi.herokuapp.com/api?handle=narim144&theme=warm" alt="Mazandi Profile" style="border-radius: 12px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
   </a>
 </div>
-
-<!-- 공백 추가 -->
-<br>
-
-<!-- 애니메이션 정의 -->
-<style>
-  @keyframes typing {
-    from {
-      width: 0;
-    }
-    to {
-      width: 16em;
-    }
-  }
-
-  @keyframes blink {
-    50% {
-      border-color: transparent;
-    }
-  }
-</style>
-
-
 
 <!-- 연락처 섹션 -->
 <div align="center">
