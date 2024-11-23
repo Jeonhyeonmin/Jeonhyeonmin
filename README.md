@@ -1,61 +1,82 @@
-# 🌟 Welcome to My GitHub! 🌟  
-**`Game Developer | Unity Expert | Tech Enthusiast`**  
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=flat-square)  
+<div align="center">
+  <img src="https://your-image-link-here/banner.png" alt="Banner" width="100%"/>
+</div>
+
+---
+
+<h1 align="center">🌟 Welcome to My GitHub! 🌟</h1>
 
 <p align="center">
-  <img src="https://github.com/Jeonhyeonmin/Jeonhyeonmin/raw/main/assets/banner.png" alt="Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7A8B8&width=435&lines=I'm+a+Passionate+Developer!;I+love+Unity+and+Coding!;Welcome+to+My+Journey!+👋" alt="Typing SVG">
 </p>
 
 ---
 
-## 🚀 About Me  
-> 🎮 I create **immersive games** and explore **AI-driven experiences**!  
-> 🌐 Lover of **open-source projects** and **game development technologies**.
-
-- 🔭 Currently working on **indie VR projects** using Unity and Unreal Engine.  
-- 🌱 Learning **procedural generation** and **game physics optimizations**.  
-- 🎯 2024 Goals: Create a multiplayer game that connects players **emotionally and dynamically**.  
-- 🎨 Fun Fact: I design **low-poly 3D models** in Blender for fun!
-
----
-
-## 🛠️ Skills & Tools  
-
-### **Languages**
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### **Game Engines**
-![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
-
-### **Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/Code-C%23-blue?style=flat-square&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tools-Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tools-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tools-AE-FF61F6?style=flat-square&logo=adobeaftereffects&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Editor-Rider-663399?style=flat-square&logo=jetbrains&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Editor-DaVinci%20Resolve-FF8C00?style=flat-square&logo=davinciresolve&logoColor=white"/>
+</div>
 
 ---
 
-## 🎮 Featured Projects  
-### **[📘 Project Name 1](https://github.com/your-username/project1)**
-_A multiplayer game where players interact with procedurally generated environments._
-![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-
-### **[📘 Project Name 2](https://github.com/your-username/project2)**
-_An AI-driven puzzle game that adapts to player strategies._
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 🧑‍💻 **About Me**
+- 🎮 Unity enthusiast with a passion for creating immersive games.
+- 🐍 Experienced with **Python** for scripting and automation.
+- 🎨 Skilled in **Photoshop, After Effects**, and **Illustrator** for creative projects.
+- 💻 Coding tools include **Rider**, **VS Code**, and **DaVinci Resolve**.
+- 🌟 Always exploring new technologies and pushing creative boundaries!
 
 ---
 
-## 🌐 Connect with Me  
+## 🚀 **Languages & Tools**
+### 🎨 Design & Video Tools
+<div align="center">
+  <img src="https://img.icons8.com/color/48/adobe-after-effects--v1.png" alt="After Effects" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="Photoshop" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/adobe-illustrator.png" alt="Illustrator" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/davinci-resolve.png" alt="DaVinci Resolve" width="50" height="50"/>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://yourportfolio.com)
+### 💻 Development Tools
+<div align="center">
+  <img src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="C#" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/python.png" alt="Python" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/unity.png" alt="Unity" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/jetbrains.png" alt="Rider" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VSCode" width="50" height="50"/>
+</div>
 
 ---
 
-<p align="center">
+## 📊 **GitHub Stats**
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+## 🌟 **Fun Projects**
+- 🎮 **Unity Game Development**: Crafting engaging games with creative mechanics.
+- 🎨 **Creative Editing**: From photo edits to animated effects, exploring artistic ventures.
+- 🐍 **Python Scripts**: Automation tools and small utilities to make life easier.
+
+---
+
+<div align="center">
+  <h3>🌟 Thank you for visiting! 🌟</h3>
+  <p>💬 Feel free to connect with me or check out my projects below!</p>
+  <a href="https://github.com/your-username">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
