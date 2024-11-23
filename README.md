@@ -59,13 +59,13 @@
 
 <br><br> <!-- 공백 추가 -->
 
-<!-- 두 카드 항목을 중앙 정렬을 위한 div -->
-<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+<!-- 개발 포커스 및 기술 섹션 -->
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 40px; padding: 0 20px;">
 
-  <!-- Core Expertise 카드 -->
-  <div style="background: #f8f9fa; border-radius: 10px; padding: 20px; width: 300px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); text-align: center;">
-    <h3>🚀 Core Expertise</h3>
-    <ul style="list-style-type: none; padding: 0;">
+  <!-- Core Expertise 섹션 -->
+  <div>
+    <h3 style="font-size: 1.5em; color: #A960FF;">🚀 Core Expertise</h3>
+    <ul style="list-style-type: none; padding: 0; font-size: 1.1em; color: #333;">
       <li>🎮 Advanced Game Systems</li>
       <li>🤖 AI & Machine Learning</li>
       <li>🔧 Performance Optimization</li>
@@ -73,16 +73,17 @@
     </ul>
   </div>
 
-  <!-- Technical Skills 카드 -->
-  <div style="background: #f8f9fa; border-radius: 10px; padding: 20px; width: 300px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); text-align: center;">
-    <h3>💻 Technical Skills</h3>
-    <ul style="list-style-type: none; padding: 0;">
+  <!-- Technical Skills 섹션 -->
+  <div>
+    <h3 style="font-size: 1.5em; color: #A960FF;">💻 Technical Skills</h3>
+    <ul style="list-style-type: none; padding: 0; font-size: 1.1em; color: #333;">
       <li>🛠️ System Architecture</li>
       <li>🎲 Gameplay Programming</li>
       <li>🔍 Code Optimization</li>
       <li>📱 Cross-Platform Dev</li>
     </ul>
   </div>
+
 </div>
 
 <br><br> <!-- 공백 추가 -->
