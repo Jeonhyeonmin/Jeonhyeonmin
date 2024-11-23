@@ -63,6 +63,9 @@
   <img src="https://ghchart.rshah.org/Jeonhyeonmin" alt="GitHub Activity Chart" width="100%" />
 </div>
 
+---
+
+<hr>
 <br><br>
 
 <!-- GitHub 통계 섹션 -->
