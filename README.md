@@ -98,21 +98,6 @@
   </a>
 </div>
 
-<!-- CodeForces 프로필 배지 타이틀 -->
-<div align="center">
-  <h3 style="color: #4c88ff; font-family: 'IBM Plex Mono', monospace;">
-    CodeForces Profile 🖥️
-  </h3>
-</div>
-
-<!-- CodeForces 프로필 배지 -->
-<div align="center">
-  <a href="https://codeforces.com/profile/narim144">
-    <img src="https://cf.leed.at?id=narim144" alt="CodeForces Profile"/>
-  </a>
-</div>
-
-
 <hr>
 <br>
 
