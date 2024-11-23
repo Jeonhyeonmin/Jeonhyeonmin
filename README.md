@@ -13,10 +13,20 @@
 ---
 
 <!-- 자기소개 섹션 -->
-<div align="center">
-  <h2>🎮 Game Client Developer</h2>
-  <p>Hi, I'm a passionate Game Client Developer with a focus on building immersive experiences using Unity and C#. I thrive on designing and optimizing game mechanics, creating seamless user experiences, and collaborating with teams to deliver high-quality projects. 🚀</p>
+<div align="center" style="margin: 30px;">
+  <h2 style="font-family: 'Orbitron', sans-serif; font-size: 2.5rem; color: #A960FF; text-shadow: 2px 2px 8px rgba(169, 96, 255, 0.7);">
+    🎮 Game Client Developer
+  </h2>
+  <p style="font-family: 'Poppins', sans-serif; font-size: 1.2rem; color: #555; line-height: 1.8; max-width: 600px;">
+    Hi, I'm a <span style="color: #FF69B4; font-weight: bold;">passionate Game Client Developer</span> focused on creating immersive experiences using 
+    <span style="color: #4285F4; font-weight: bold;">Unity</span> and 
+    <span style="color: #8C52FF; font-weight: bold;">C#</span>. I excel in designing and optimizing game mechanics, delivering seamless user experiences, and collaborating with teams to bring high-quality projects to life. 🚀
+  </p>
+  <div style="margin-top: 20px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=4c88ff&center=true&vCenter=true&width=600&lines=Let's+Build+Amazing+Games+Together!+%F0%9F%8E%AE" alt="Typing Animation"/>
+  </div>
 </div>
+
 
 <!-- 개발 도구 배너 섹션 -->
 <div align="center">
