@@ -12,7 +12,6 @@
 
 <!-- 프로필 뷰 카운터 + 소셜 뱃지 -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jeonhyeonmin&label=Profile%20Views&color=A960FF&style=for-the-badge" alt="Profile Views"/>
   <a href="https://github.com/Jeonhyeonmin?tab=followers">
     <img src="https://img.shields.io/github/followers/Jeonhyeonmin?style=for-the-badge&logo=github&labelColor=black&color=A960FF" alt="followers"/>
   </a>
