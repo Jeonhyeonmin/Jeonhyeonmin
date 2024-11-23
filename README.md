@@ -5,12 +5,6 @@
 
 </div>
 
-<!-- GitHub Activity 배지 -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=your-username&bg_color=0d1117&color=A960FF&line=A960FF&point=A960FF&area=true&area_color=0D1117" alt="GitHub Activity Graph" />
-</div>
-
-
 <div align="center">
   <!-- 애니메이션 헤더 배너 -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A960FF,100:FF69B4&height=300&section=header&text=Creative%20Developer&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Crafting%20Digital%20Experiences%20with%20Passion%20🚀&descAlignY=51&descAlign=62&fontColor=ffffff&font=Montserrat" width="100%"/>
@@ -58,15 +52,13 @@
   
   <img src="https://skillicons.dev/icons?i=unity,cs,python,dotnet,git,github" /><br>
   
-  
-text
-
-🎮 Game Development    ████████████████████████  100%
+  ```text
+🎮 Game Development    ██████████████████████░░  90%
 🔧 C# Development     ██████████████████████░░  90%
 🐍 Python             ████████████████████░░░░  80%
 🎨 Creative Suite     ████████████████░░░░░░░░  70%
 🚀 VFX Pipeline      ███████████████░░░░░░░░░  65%
-
+```
 </div>
 
 ---
