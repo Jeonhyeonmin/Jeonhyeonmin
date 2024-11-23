@@ -21,13 +21,13 @@
 ---
 
 <!-- 백준 프로필 배지 섹션 -->
-<div align="center" style="background-color: #1c1c1c; padding: 40px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+<div align="center" style="background-color: #f5f5f5; padding: 40px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <h3 style="font-family: 'Roboto', sans-serif; color: #A960FF; font-size: 30px; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 20px;">백준 프로필</h3>
   <a href="https://solved.ac/narim144/" target="_blank" style="display: inline-block; padding: 20px; background-color: #FF69B4; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); text-decoration: none;">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=narim144" alt="백준 프로필 배지" style="border-radius: 10px; border: 2px solid #A960FF; transition: transform 0.3s;">
   </a>
-  <p style="font-family: 'Roboto', sans-serif; color: #ffffff; font-size: 18px; margin-top: 20px; line-height: 1.5;">백준에서 문제를 풀고 성장하는 중입니다! 도전정신과 해결능력을 키워가고 있어요.</p>
 </div>
+
 
 
 <!-- 개발 도구 배너 섹션 -->
