@@ -42,7 +42,7 @@
 
 <!-- 스킬 진행바 개선 -->
 <div align="center">
-  <h3>💡 Expertise Level</h3>
+  <h2>💡 Expertise Level</h2>
   
   <img src="https://skillicons.dev/icons?i=unity,cs,python,dotnet,git,github" /><br>
   
