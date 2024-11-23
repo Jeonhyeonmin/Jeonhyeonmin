@@ -13,36 +13,64 @@
 ---
 
 <div align="center">
+  <!-- 배너 스타일 -->
+  <style>
+    .tech-badge {
+      display: inline-block;
+      margin: 10px;
+      transition: transform 0.3s ease, filter 0.3s ease;
+    }
+    
+    .tech-badge img {
+      border-radius: 10px;
+      width: 100px; /* 기본 크기 */
+      height: auto;
+      transition: all 0.3s ease;
+    }
+
+    .tech-badge:hover img {
+      transform: scale(1.1); /* 마우스 오버 시 확대 */
+      filter: brightness(1.2); /* 밝기 증가 */
+    }
+
+    @media (max-width: 600px) {
+      .tech-badge img {
+        width: 80px; /* 모바일에서 크기 축소 */
+      }
+    }
+  </style>
+
   <!-- 첫 번째 행 -->
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp" target="_blank">
+  <a class="tech-badge" href="https://learn.microsoft.com/en-us/dotnet/csharp" target="_blank">
     <img src="https://img.shields.io/badge/Code-C%23-0078D4?style=flat&logo=csharp&logoColor=white" alt="C#"/>
   </a>
-  <a href="https://www.python.org/" target="_blank">
+  <a class="tech-badge" href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Code-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
   </a>
-  <a href="https://unity.com/" target="_blank">
+  <a class="tech-badge" href="https://unity.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tools-Unity-000000?style=flat&logo=unity&logoColor=white" alt="Unity"/>
   </a>
-  
+
   <!-- 두 번째 행 -->
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+  <a class="tech-badge" href="https://www.adobe.com/products/photoshop.html" target="_blank">
     <img src="https://img.shields.io/badge/Tools-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
   </a>
-  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
+  <a class="tech-badge" href="https://www.adobe.com/products/aftereffects.html" target="_blank">
     <img src="https://img.shields.io/badge/Tools-AE-FF61F6?style=flat&logo=adobeaftereffects&logoColor=white" alt="After Effects"/>
   </a>
-  <a href="https://www.jetbrains.com/rider/" target="_blank">
+  <a class="tech-badge" href="https://www.jetbrains.com/rider/" target="_blank">
     <img src="https://img.shields.io/badge/Editor-Rider-663399?style=flat&logo=jetbrains&logoColor=white" alt="Rider"/>
   </a>
-  
+
   <!-- 세 번째 행 -->
-  <a href="https://code.visualstudio.com/" target="_blank">
+  <a class="tech-badge" href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
   </a>
-  <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank">
+  <a class="tech-badge" href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank">
     <img src="https://img.shields.io/badge/Editor-DaVinci%20Resolve-FF8C00?style=flat&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve"/>
   </a>
 </div>
+
 
 
 
