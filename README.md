@@ -59,19 +59,12 @@
 
 <br><br> <!-- 공백 추가 -->
 
-<!-- 개발 포커스 섹션 -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=30&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&width=435&lines=Development+Focus+%F0%9F%8E%AF" alt="Focus"/>
-</div>
-
-<br><br> <!-- 공백 추가 -->
-
 <!-- Core Expertise 섹션 -->
-<div align="center" style="background-color: #F7F7F7; padding: 40px; border-radius: 10px; width: 80%; margin: 0 auto; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);">
-  <h3 style="font-size: 1.8em; color: #A960FF; margin-bottom: 20px; display: inline-block;">🚀 Core Expertise</h3>
-  <hr style="width: 50px; border-top: 3px solid #A960FF; margin: 10px auto;">
+<div align="center">
+  <h3 style="font-size: 1.8em; color: #A960FF; margin-bottom: 15px;">🚀 Core Expertise</h3>
+  <hr style="width: 80px; border-top: 3px solid #A960FF; margin: 10px auto;">
   
-  <ul style="list-style-type: none; padding: 0; font-size: 1.1em; color: #333; line-height: 1.8;">
+  <ul style="list-style-type: none; padding: 0; font-size: 1.1em; color: #333; line-height: 1.8; text-align: left; width: 80%; margin: 0 auto;">
     <li>🎮 Advanced Game Systems</li>
     <li>🤖 AI & Machine Learning</li>
     <li>🔧 Performance Optimization</li>
@@ -82,19 +75,17 @@
 <br><br> <!-- 공백 추가 -->
 
 <!-- Technical Skills 섹션 -->
-<div align="center" style="background-color: #EDEDED; padding: 40px; border-radius: 10px; width: 80%; margin: 0 auto; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);">
-  <h3 style="font-size: 1.8em; color: #A960FF; margin-bottom: 20px; display: inline-block;">💻 Technical Skills</h3>
-  <hr style="width: 50px; border-top: 3px solid #A960FF; margin: 10px auto;">
+<div align="center">
+  <h3 style="font-size: 1.8em; color: #A960FF; margin-bottom: 15px;">💻 Technical Skills</h3>
+  <hr style="width: 80px; border-top: 3px solid #A960FF; margin: 10px auto;">
   
-  <ul style="list-style-type: none; padding: 0; font-size: 1.1em; color: #333; line-height: 1.8;">
+  <ul style="list-style-type: none; padding: 0; font-size: 1.1em; color: #333; line-height: 1.8; text-align: left; width: 80%; margin: 0 auto;">
     <li>🛠️ System Architecture</li>
     <li>🎲 Gameplay Programming</li>
     <li>🔍 Code Optimization</li>
     <li>📱 Cross-Platform Dev</li>
   </ul>
 </div>
-
-<br><br> <!-- 공백 추가 -->
 
 ---
 
