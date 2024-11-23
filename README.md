@@ -81,7 +81,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Jeonhyeonmin&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=narim144)](https://solved.ac/narim144)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=narim144)](https://solved.ac/narim144)
 
 <br>
 <hr>
