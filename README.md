@@ -29,7 +29,7 @@
 <div align="center">
   
   <!-- 개발 도구 배너 -->
-  <img src="https://skillicons.dev/icons?i=unity,cs,python,dotnet" /><br>
+  <img src="https://skillicons.dev/icons?i=unity,cs,python,dotnet,gcp" /><br>
   
   <!-- IDE & 에디터 배너 -->
   <img src="https://skillicons.dev/icons?i=rider,vs,vs_code" /><br>
