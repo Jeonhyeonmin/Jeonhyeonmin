@@ -125,10 +125,16 @@
 </div>
 
 <div align="center">
+  <!-- 이메일 링크 -->
   <a href="mailto:fudrim06@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <!-- 디스코드 링크 -->
+  <a href="https://discord.com/users/yourdiscordid">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
 </div>
+
 
 <!-- 애니메이션 푸터 -->
 <div align="center">
