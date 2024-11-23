@@ -38,11 +38,14 @@
   <img src="https://skillicons.dev/icons?i=photoshop,aftereffects,illustrator,pr" /><br><br>
 </div>
 
+---
+
 <!-- 전문가 수준 섹션 -->
 <div align="center">
   <h3>💡 Expertise Level</h3>
   <img src="https://skillicons.dev/icons?i=unity,cs,python,dotnet,git,github,photoshop,aftereffects" /><br><br>
 </div>
+
 
 ---
 
