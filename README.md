@@ -29,7 +29,7 @@
 - 🎮 Unity enthusiast with a passion for creating immersive games.
 - 🐍 Experienced with **Python** for scripting and automation.
 - 🎨 Skilled in **Photoshop, After Effects**, and **Illustrator** for creative projects.
-- 💻 Coding tools include **Rider**, **VS Code**, and **DaVinci Resolve**.
+- 💻 Coding tools include **Rider**, **VS Code**.
 - 🌟 Always exploring new technologies and pushing creative boundaries!
 
 ---
