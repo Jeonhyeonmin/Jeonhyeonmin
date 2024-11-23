@@ -43,8 +43,11 @@
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe%20after%20effects&logoColor=white"/>
   <img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinci%20resolve&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white"/>
 
 </div>
+
 
 <!-- 스킬 진행바 개선 -->
 <div align="center">
