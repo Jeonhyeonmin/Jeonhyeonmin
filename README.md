@@ -41,20 +41,6 @@
   </div>
 </div>
 
-<div align="center">
-  <h3>💡 전문 분야</h3>
-  
-  <img src="https://skillicons.dev/icons?i=unity,cs,python,dotnet,git,github" /><br>
-  
-  ```text
-🎮 게임 개발          ██████████████████████░░  90%
-🔧 C# 개발           ██████████████████████░░  90%
-🐍 Python           ████████████████████░░░░  80%
-🎨 디자인 툴         ████████████████░░░░░░░░  70%
-🚀 VFX              ███████████████░░░░░░░░░  65%
-```
-</div>
-
 ---
 
 <div align="center">
@@ -65,20 +51,20 @@
 <tr>
 <td width="50%">
 
-### 🚀 핵심 전문성
-- 🎮 고급 게임 시스템
-- 🤖 AI & 머신러닝
-- 🔧 성능 최적화
-- 📊 데이터 기반 개발
+### 🚀 Core Expertise
+- 🎮 Advanced Game Systems
+- 🤖 AI & Machine Learning
+- 🔧 Performance Optimization
+- 📊 Data-Driven Development
 
 </td>
 <td width="50%">
 
-### 💻 기술 스킬
-- 🛠️ 시스템 설계
-- 🎲 게임플레이 프로그래밍
-- 🔍 코드 최적화
-- 📱 크로스 플랫폼 개발
+### 💻 Technical Skills
+- 🛠️ System Design
+- 🎲 Gameplay Programming
+- 🔍 Code Optimization
+- 📱 Cross-Platform Development
 
 </td>
 </tr>
@@ -125,29 +111,23 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&width=435&lines=Let's+Connect+%F0%9F%A4%9D" alt="Connect"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&width=435&lines=Let's+Connect+%F0%9F%91%8B" alt="Connect"/>
 </div>
 
-<div align="center">
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jeonhyeonmin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-profile/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="mailto:jeonhyeonmin@example.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://discord.gg/your-server">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  <a href="https://discord.com/users/Jeonhyeonmin">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-</div>
+</p>
+
+---
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jeonhyeonmin/Jeonhyeonmin/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jeonhyeonmin/Jeonhyeonmin/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jeonhyeonmin/Jeonhyeonmin/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=방문해주셔서%20감사합니다!%20👋&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=65" width="100%"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Jeonhyeonmin" />
 </div>
