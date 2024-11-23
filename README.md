@@ -33,7 +33,7 @@
 <!-- IDE & 에디터 배너 섹션 -->
 <div align="center">
   <h3>🧑‍💻 IDE & Editors</h3>
-  <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rider-6B7A8F?style=for-the-badge&logo=rider&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/><br><br>
 </div>
