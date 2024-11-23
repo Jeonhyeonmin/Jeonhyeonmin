@@ -26,7 +26,6 @@
   <a href="https://solved.ac/narim144/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=narim144" alt="백준 프로필 배지" />
   </a>
-  <p>백준에서 문제를 풀고 성장하는 중입니다!</p>
 </div>
 
 <!-- 개발 도구 배너 섹션 -->
