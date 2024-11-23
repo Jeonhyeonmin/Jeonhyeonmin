@@ -65,7 +65,7 @@
 
 ---
 
-<br><br>
+<br>
 
 <!-- GitHub 통계 섹션 -->
 <div align="center">
@@ -81,9 +81,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Jeonhyeonmin&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
-<br><br>
+<br>
 <hr>
-<br><br>
+<br>
 
 <!-- 연락처 섹션 -->
 <div align="center">
