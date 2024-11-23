@@ -103,8 +103,8 @@
 
 <!-- 백준 아이디 배지 추가 -->
 <div align="center">
-  <a href="https://solved.ac/백준아이디/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디" alt="백준 프로필 배지" />
+  <a href="https://solved.ac/narim144/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=narim144" alt="백준 프로필 배지" />
   </a>
 </div>
 
