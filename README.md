@@ -135,3 +135,7 @@
   </a>
 </div>
 
+<!-- 애니메이션 푸터 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20visiting!%20👋&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=65" width="100%"/>
+</div>
