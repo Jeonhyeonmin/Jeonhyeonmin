@@ -17,15 +17,19 @@
   <h2 style="font-family: 'Orbitron', sans-serif; font-size: 2.5rem; color: #A960FF; text-shadow: 2px 2px 8px rgba(169, 96, 255, 0.7);">
     🎮 Game Client Developer
   </h2>
-  <p style="font-family: 'Poppins', sans-serif; font-size: 1.2rem; color: #555; line-height: 1.8; max-width: 600px;">
-    Hi, I'm a <span style="color: #FF69B4; font-weight: bold;">passionate Game Client Developer</span> focused on creating immersive experiences using 
-    <span style="color: #4285F4; font-weight: bold;">Unity</span> and 
-    <span style="color: #8C52FF; font-weight: bold;">C#</span>. I excel in designing and optimizing game mechanics, delivering seamless user experiences, and collaborating with teams to bring high-quality projects to life. 🚀
+  <p style="font-family: 'Poppins', sans-serif; font-size: 1.2rem; color: #555; line-height: 1.8; max-width: 600px; text-align: center;">
+    Hello! I am a <span style="color: #FF69B4; font-weight: bold;">dedicated Game Client Developer</span>, <br>
+    specializing in creating <span style="color: #4CAF50; font-weight: bold;">engaging gameplay experiences</span> 
+    with <span style="color: #4285F4; font-weight: bold;">Unity</span> and 
+    <span style="color: #8C52FF; font-weight: bold;">C#</span>. <br>
+    My passion lies in designing intuitive <span style="font-style: italic;">mechanics</span>, optimizing performance, <br> 
+    and collaborating to craft unforgettable gaming adventures. 🚀
   </p>
   <div style="margin-top: 20px;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=4c88ff&center=true&vCenter=true&width=600&lines=Let's+Build+Amazing+Games+Together!+%F0%9F%8E%AE" alt="Typing Animation"/>
   </div>
 </div>
+
 
 
 <!-- 개발 도구 배너 섹션 -->
