@@ -15,6 +15,9 @@
   <a href="https://github.com/Jeonhyeonmin?tab=followers">
     <img src="https://img.shields.io/github/followers/Jeonhyeonmin?style=for-the-badge&logo=github&labelColor=black&color=A960FF" alt="followers"/>
   </a>
+  <a href="https://solved.ac/백준아이디/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디" alt="백준 프로필 배지" />
+  </a>
   <img src="https://img.shields.io/github/stars/Jeonhyeonmin?style=for-the-badge&logo=github&labelColor=black&color=A960FF" alt="stars"/>
 </div>
 
