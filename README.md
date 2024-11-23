@@ -49,8 +49,6 @@
   <img src="https://skillicons.dev/icons?i=unity,cs,python,dotnet,git,github,photoshop,aftereffects" /><br><br>
 </div>
 
-<br><br>
-
 ---
 
 <!-- GitHub 통계 섹션 -->
