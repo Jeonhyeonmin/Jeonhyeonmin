@@ -87,9 +87,9 @@
 
 <!-- 백준 프로필 배지 타이틀 -->
 <div align="center">
-  <h2 style="color: #4c88ff; font-family: 'IBM Plex Mono', monospace; font-weight: bold; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);">
+  <h1 style="color: #4c88ff; font-family: 'IBM Plex Mono', monospace; font-weight: bold; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);">
     Backjoon Profile 🌟
-  </h2>
+  </h1>
 </div>
 
 <!-- 백준 프로필 배지와 Mazandi 프로필 배지 가로 정렬 -->
