@@ -59,9 +59,11 @@
 
 <br><br> <!-- 공백 추가 -->
 
-<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+<!-- 두 카드 항목을 중앙 정렬을 위한 div -->
+<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+
   <!-- Core Expertise 카드 -->
-  <div style="background: #f8f9fa; border-radius: 10px; padding: 20px; width: 250px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); text-align: center;">
+  <div style="background: #f8f9fa; border-radius: 10px; padding: 20px; width: 300px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); text-align: center;">
     <h3>🚀 Core Expertise</h3>
     <ul style="list-style-type: none; padding: 0;">
       <li>🎮 Advanced Game Systems</li>
@@ -72,7 +74,7 @@
   </div>
 
   <!-- Technical Skills 카드 -->
-  <div style="background: #f8f9fa; border-radius: 10px; padding: 20px; width: 250px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); text-align: center;">
+  <div style="background: #f8f9fa; border-radius: 10px; padding: 20px; width: 300px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); text-align: center;">
     <h3>💻 Technical Skills</h3>
     <ul style="list-style-type: none; padding: 0;">
       <li>🛠️ System Architecture</li>
@@ -84,7 +86,6 @@
 </div>
 
 <br><br> <!-- 공백 추가 -->
-
 
 ---
 
