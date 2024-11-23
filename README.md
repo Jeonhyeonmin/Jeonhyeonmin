@@ -81,7 +81,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Jeonhyeonmin&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=narim144)](https://solved.ac/narim144)
+<!-- 백준 프로필 배지 -->
+<div align="center">
+  <a href="https://solved.ac/narim144">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=narim144" alt="Solved.ac Profile"/>
+  </a>
+</div>
 
 <br>
 <hr>
