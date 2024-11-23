@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- 다중 애니메이션 배너 -->
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=4000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Welcome+to+My+Creative+Space+%F0%9F%8C%9F;Game+Developer+%F0%9F%8E%AE+%7C%7C+Tech+Enthusiast+%F0%9F%92%BB)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=4000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&width=800&height=110&lines=Welcome+to+My+Creative+Space+%F0%9F%8C%9F;Game+Developer+%F0%9F%8E%AE+%7C%7C+Tech+Enthusiast+%F0%9F%92%BB)
 
 </div>
 
