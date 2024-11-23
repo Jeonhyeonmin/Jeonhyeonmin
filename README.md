@@ -13,14 +13,30 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Code-C%23-blue?style=flat-square&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tools-Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tools-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tools-AE-FF61F6?style=flat-square&logo=adobeaftereffects&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Editor-Rider-663399?style=flat-square&logo=jetbrains&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Editor-DaVinci%20Resolve-FF8C00?style=flat-square&logo=davinciresolve&logoColor=white"/>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp" target="_blank">
+    <img src="https://img.shields.io/badge/Code-C%23-0078D4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </a>
+  <a href="https://unity.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tools-Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+  </a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+    <img src="https://img.shields.io/badge/Tools-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
+  </a>
+  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
+    <img src="https://img.shields.io/badge/Tools-AE-FF61F6?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="After Effects"/>
+  </a>
+  <a href="https://www.jetbrains.com/rider/" target="_blank">
+    <img src="https://img.shields.io/badge/Editor-Rider-663399?style=for-the-badge&logo=jetbrains&logoColor=white" alt="Rider"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  </a>
+  <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank">
+    <img src="https://img.shields.io/badge/Editor-DaVinci%20Resolve-FF8C00?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve"/>
+  </a>
 </div>
 
 ---
