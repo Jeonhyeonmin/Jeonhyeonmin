@@ -1,7 +1,5 @@
 <div align="center">
-  
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=4000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Welcome+to+My+Creative+Space+%F0%9F%8C%9F;Game+Developer+%F0%9F%8E%AE+%7C%7C+Tech+Enthusiast+%F0%9F%92%BB)
-
 </div>
 
 <div align="center">
@@ -44,42 +42,37 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=30&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&width=435&lines=Development+Focus+%F0%9F%8E%AF" alt="Focus"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=600&size=30&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&width=435&lines=Development+Focus+%F0%9F%8E%AF" alt="Focus"/>
 </div>
 
 <table align="center">
-<tr>
-<td width="50%">
-
-### 🚀 Core Expertise
-- 🎮 Advanced Game Systems
-- 🤖 AI & Machine Learning
-- 🔧 Performance Optimization
-- 📊 Data-Driven Development
-
-</td>
-<td width="50%">
-
-### 💻 Technical Skills
-- 🛠️ System Design
-- 🎲 Gameplay Programming
-- 🔍 Code Optimization
-- 📱 Cross-Platform Development
-
-</td>
-</tr>
+  <tr>
+    <td width="50%">
+      ### 🚀 Core Expertise
+      - 🎮 Advanced Game Systems
+      - 🤖 AI & Machine Learning
+      - 🔧 Performance Optimization
+      - 📊 Data-Driven Development
+    </td>
+    <td width="50%">
+      ### 💻 Technical Skills
+      - 🛠️ System Design
+      - 🎲 Gameplay Programming
+      - 🔍 Code Optimization
+      - 📱 Cross-Platform Development
+    </td>
+  </tr>
 </table>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=600&size=30&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&width=435&lines=GitHub+Statistics+%F0%9F%93%88" alt="Stats"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=30&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&width=435&lines=GitHub+Statistics+%F0%9F%93%88" alt="Stats"/>
 </div>
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jeonhyeonmin&show_icons=true&count_private=true&hide_border=true&title_color=A960FF&icon_color=A960FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeonhyeonmin&hide_border=true&stroke=A960FF&background=0D1117&ring=A960FF&fire=A960FF&currStreakLabel=A960FF" alt="Contribution Streak" />
-
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeonhyeonmin&layout=compact&hide_border=true&title_color=A960FF&text_color=ffffff&bg_color=0d1117" />
 </div>
 
@@ -104,14 +97,13 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=30&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&width=435&lines=Recent+Activity+%F0%9F%8C%B1" alt="Activity"/>
-  
   ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jeonhyeonmin&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A960FF&line=FF69B4&point=A960FF&area=true)
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&width=435&lines=Let's+Connect+%F0%9F%91%8B" alt="Connect"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=600&size=30&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&width=435&lines=Let's+Connect+%F0%9F%91%8B" alt="Connect"/>
 </div>
 
 <p align="center">
@@ -129,5 +121,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=방문해주셔서%20감사합니다!%20👋&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=65" width="100%"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Jeonhyeonmin" />
 </div>
