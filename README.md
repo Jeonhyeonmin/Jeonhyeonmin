@@ -20,6 +20,15 @@
 
 ---
 
+<!-- 백준 프로필 배지 섹션 -->
+<div align="center">
+  <h3>💻 백준 프로필</h3>
+  <a href="https://solved.ac/narim144/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=narim144" alt="백준 프로필 배지" />
+  </a>
+  <p>백준에서 문제를 풀고 성장하는 중입니다!</p>
+</div>
+
 <!-- 개발 도구 배너 섹션 -->
 <div align="center">
   <h3>💻 Development Tools</h3>
@@ -100,14 +109,6 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </div>
-
-<!-- 백준 아이디 배지 추가 -->
-<div align="center">
-  <a href="https://solved.ac/narim144/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=narim144" alt="백준 프로필 배지" />
-  </a>
-</div>
-
 
 <!-- 애니메이션 푸터 -->
 <div align="center">
