@@ -52,6 +52,8 @@
 
 ---
 
+<br>
+
 <!-- 전문가 수준 섹션 -->
 <div align="center">
   <h3>💡 Expertise Level</h3>
