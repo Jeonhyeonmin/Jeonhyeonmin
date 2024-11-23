@@ -96,6 +96,10 @@
   <a href="https://solved.ac/narim144">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=narim144" alt="Solved.ac Profile"/>
   </a>
+<div align="center">
+  <a href="https://solved.ac/profile/narim144/arena">
+    <img src="https://solvedac.junah.dev/v1/generate_badge?handle=narim144" alt="solved.ac Badge"/>
+  </a>
 </div>
 
 <hr>
