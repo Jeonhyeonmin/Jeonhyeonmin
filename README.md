@@ -47,7 +47,7 @@
 <!-- 전문가 수준 섹션 -->
 <div align="center">
   <h2>💡 Expertise Level</h2>
-  <img src="https://skillicons.dev/icons?i=unity,cs,python,dotnet,git,github" /><br><br>
+  <img src="https://skillicons.dev/icons?i=unity,cs,python,dotnet,git,github,photoshop,aftereffects" /><br><br>
 </div>
 
 <br><br> <!-- 공백 추가 -->
