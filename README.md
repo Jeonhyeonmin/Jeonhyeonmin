@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <!-- 디스코드 링크 -->
-  <a href="https://discord.com/users/hyeonmin__06">
+  <a href="https://discord.com/users/hyeonmin2024">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </div>
