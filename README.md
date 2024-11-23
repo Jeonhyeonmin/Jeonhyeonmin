@@ -87,7 +87,10 @@
 
 <!-- 백준 프로필 배지 타이틀 -->
 <div align="center">
-  <h1 style="color: #4c88ff; font-family: 'IBM Plex Mono', monospace; font-weight: bold; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);">
+  <h1 style="color: #4c88ff; font-family: 'IBM Plex Mono', monospace; font-weight: bold; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); 
+    display: inline-block; overflow: hidden; white-space: nowrap; 
+    border-right: 4px solid #4c88ff; animation: typing 3s steps(30) 1s 1 normal both, blink 0.75s step-end infinite;">
     Backjoon Profile 🌟
   </h1>
 </div>
@@ -103,11 +106,27 @@
   </a>
 </div>
 
-<!-- 구분선 -->
-<hr style="border: 1px solid #4c88ff; width: 80%; margin: 30px auto;"/>
-
 <!-- 공백 추가 -->
 <br>
+
+<!-- 애니메이션 정의 -->
+<style>
+  @keyframes typing {
+    from {
+      width: 0;
+    }
+    to {
+      width: 16em;
+    }
+  }
+
+  @keyframes blink {
+    50% {
+      border-color: transparent;
+    }
+  }
+</style>
+
 
 
 <!-- 연락처 섹션 -->
