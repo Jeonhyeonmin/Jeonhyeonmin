@@ -1,9 +1,9 @@
 <div align="center">
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=4000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Welcome+to+My+Creative+Space+%F0%9F%8C%9F;Game+Developer+%F0%9F%8E%AE+%7C%7C+Tech+Enthusiast+%F0%9F%92%BB)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=4000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Welcome+to+My+Creative+Space+%F0%9F%8C%9F;Game+Developer+%F0%9F%8E%AE+%7C%7C+Tech+Enthusiast+%F0%9F%92%BB" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A960FF,100:FF69B4&height=300&section=header&text=Creative%20Developer&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Crafting%20Digital%20Experiences%20with%20Passion%20🚀&descAlignY=51&descAlign=62&fontColor=ffffff&font=Montserrat" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A960FF,100:FF69B4&height=300&section=header&text=Creative%20Developer&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Crafting%20Digital%20Experiences%20with%20Passion%20🚀&descAlignY=51&descAlign=62&fontColor=ffffff&font=Montserrat" width="100%" />
 </div>
 
 <div align="center">
@@ -25,15 +25,12 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  
   <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
-  
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe%20after%20effects&logoColor=white"/>
   <img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinci%20resolve&logoColor=white"/>
-
   <div style="margin-top: 20px;">
     <img src="https://skillicons.dev/icons?i=unity,cs,python,dotnet,git,github,visualstudio,rider,vscode" />
   </div>
@@ -71,7 +68,7 @@
 </div>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jeonhyeonmin&show_icons=true&count_private=true&hide_border=true&title_color=A960FF&icon_color=A960FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jeonhyeonmin&show_icons=true&count_private=true&hide_border=true&title_color=A960FF&icon_color=A960FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeonhyeonmin&hide_border=true&stroke=A960FF&background=0D1117&ring=A960FF&fire=A960FF&currStreakLabel=A960FF" alt="Contribution Streak" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeonhyeonmin&layout=compact&hide_border=true&title_color=A960FF&text_color=ffffff&bg_color=0d1117" />
 </div>
