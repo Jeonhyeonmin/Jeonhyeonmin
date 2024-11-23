@@ -129,5 +129,5 @@
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Jeonhyeonmin" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=방문해주셔서%20감사합니다!%20👋&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=65" width="100%"/>
 </div>
