@@ -64,12 +64,12 @@
   <h3 style="font-size: 1.8em; color: #A960FF; margin-bottom: 15px;">🚀 Core Expertise</h3>
   <hr style="width: 80px; border-top: 3px solid #A960FF; margin: 10px auto;">
   
-  <ul style="list-style-type: none; padding: 0; font-size: 1.1em; color: #333; line-height: 1.8; text-align: left; width: 80%; margin: 0 auto;">
-    <li>🎮 Advanced Game Systems</li>
-    <li>🤖 AI & Machine Learning</li>
-    <li>🔧 Performance Optimization</li>
-    <li>📊 Data-Driven Development</li>
-  </ul>
+  <div style="font-size: 1.1em; color: #333; line-height: 1.8; text-align: left; width: 80%; margin: 0 auto;">
+    <p>🎮 Advanced Game Systems</p>
+    <p>🤖 AI & Machine Learning</p>
+    <p>🔧 Performance Optimization</p>
+    <p>📊 Data-Driven Development</p>
+  </div>
 </div>
 
 <br><br> <!-- 공백 추가 -->
@@ -79,13 +79,14 @@
   <h3 style="font-size: 1.8em; color: #A960FF; margin-bottom: 15px;">💻 Technical Skills</h3>
   <hr style="width: 80px; border-top: 3px solid #A960FF; margin: 10px auto;">
   
-  <ul style="list-style-type: none; padding: 0; font-size: 1.1em; color: #333; line-height: 1.8; text-align: left; width: 80%; margin: 0 auto;">
-    <li>🛠️ System Architecture</li>
-    <li>🎲 Gameplay Programming</li>
-    <li>🔍 Code Optimization</li>
-    <li>📱 Cross-Platform Dev</li>
-  </ul>
+  <div style="font-size: 1.1em; color: #333; line-height: 1.8; text-align: left; width: 80%; margin: 0 auto;">
+    <p>🛠️ System Architecture</p>
+    <p>🎲 Gameplay Programming</p>
+    <p>🔍 Code Optimization</p>
+    <p>📱 Cross-Platform Dev</p>
+  </div>
 </div>
+
 
 ---
 
