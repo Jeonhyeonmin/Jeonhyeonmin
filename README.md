@@ -12,6 +12,12 @@
 
 ---
 
+<!-- 자기소개 섹션 -->
+<div align="center">
+  <h2>🎮 Game Client Developer</h2>
+  <p>Hi, I'm a passionate **Game Client Developer** with a focus on building immersive experiences using **Unity** and **C#**. I thrive on designing and optimizing game mechanics, creating seamless user experiences, and collaborating with teams to deliver high-quality projects. 🚀</p>
+</div>
+
 <!-- 개발 도구 배너 섹션 -->
 <div align="center">
   <h3>💻 Development Tools</h3>
