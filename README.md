@@ -23,7 +23,7 @@
 <!-- 개발 도구 배너 섹션 -->
 <div align="center">
   <h3>💻 Development Tools</h3>
-  <img src="https://img.shields.io/badge/Unity-00B7B9?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-E60012?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
