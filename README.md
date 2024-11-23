@@ -60,7 +60,7 @@
 ---
 
 <div align="center">
-  <h3>📈 Recent Activity</h3>
+  <h3><br>📈 Recent Activity</h3>
   <img src="https://ghchart.rshah.org/Jeonhyeonmin" alt="GitHub Activity Chart" width="100%" />
 </div>
 
