@@ -22,13 +22,12 @@
 
 <!-- 개발 도구 배너 섹션 -->
 <div align="center">
-  <br>
   <h3>💻 Development Tools</h3>
   <img src="https://img.shields.io/badge/Unity-E60012?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/><br><br>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/><br>
 </div>
 
 <!-- IDE & 에디터 배너 섹션 -->
@@ -36,7 +35,7 @@
   <h3>🧑‍💻 IDE & Editors</h3>
   <img src="https://img.shields.io/badge/Rider-6B7A8F?style=for-the-badge&logo=rider&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/><br><br>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/><br>
 </div>
 
 <!-- 디자인 도구 배너 섹션 -->
