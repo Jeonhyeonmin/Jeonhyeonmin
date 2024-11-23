@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe%20after%20effects&logoColor=white"/>
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
   <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white"/><br><br>
-  <img src="https://img.shields.io/badge/DaVinci_Resolve-DC322F?style=for-the-badge&logo=blackmagicdesign&logoColor=white"/><br><br>
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-DC322F?style=for-the-badge&logo=DaVinci&logoColor=white"/><br><br>
 </div>
 
 ---
