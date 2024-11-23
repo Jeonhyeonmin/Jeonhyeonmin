@@ -10,14 +10,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A960FF,100:FF69B4&height=290&section=header&text=Creative%20Developer&fontSize=90&animation=fadeIn&fontAlignY=31&desc=Crafting%20Digital%20Experiences%20with%20Passion%20🚀&descAlignY=51&descAlign=74&fontColor=ffffff&font=Montserrat" width="100%"/>
 </div>
 
-<!-- 프로필 뷰 카운터 + 소셜 뱃지 -->
-<div align="center">
-  <a href="https://github.com/Jeonhyeonmin?tab=followers">
-    <img src="https://img.shields.io/github/followers/Jeonhyeonmin?style=for-the-badge&logo=github&labelColor=black&color=A960FF" alt="followers"/>
-  </a>
-  <img src="https://img.shields.io/github/stars/Jeonhyeonmin?style=for-the-badge&logo=github&labelColor=black&color=A960FF" alt="stars"/>
-</div>
-
 ---
 
 <!-- 개발 도구 배너 섹션 -->
