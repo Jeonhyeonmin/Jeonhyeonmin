@@ -83,7 +83,7 @@
 
 <br>
 <hr>
-<br>
+
 <!-- 백준 프로필 배지 타이틀 -->
 <div align="center">
   <h2 style="color: #4c88ff; font-family: 'IBM Plex Mono', monospace;">
