@@ -52,13 +52,14 @@
 
 <!-- 전문가 수준 섹션 -->
 <div align="center">
-  <h3>💡 Expertise Level<br></h3>
+  <h3>💡 Expertise Level</h3>
   <img src="https://skillicons.dev/icons?i=unity,cs,python,dotnet,git,github,photoshop,aftereffects" />
   
 </div>
 
 ---
 <div align="center">
+  <br>
   <h3>📈 Recent Activity</h3>
   <img src="https://ghchart.rshah.org/Jeonhyeonmin" alt="GitHub Activity Chart" width="100%" />
 </div>
