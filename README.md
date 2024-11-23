@@ -23,19 +23,28 @@
 <!-- 개발 도구 배너 섹션 -->
 <div align="center">
   <h3>💻 Development Tools</h3>
-  <img src="https://skillicons.dev/icons?i=unity,cs,python,dotnet,gcp" /><br><br>
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/><br><br>
 </div>
 
 <!-- IDE & 에디터 배너 섹션 -->
 <div align="center">
   <h3>🧑‍💻 IDE & Editors</h3>
-  <img src="https://skillicons.dev/icons?i=rider,visualstudio,vscode" /><br><br>
+  <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/><br><br>
 </div>
 
 <!-- 디자인 도구 배너 섹션 -->
 <div align="center">
   <h3>🎨 Design Tools</h3>
-  <img src="https://skillicons.dev/icons?i=photoshop,aftereffects,illustrator,pr" /><br><br>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe%20after%20effects&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white"/><br><br>
 </div>
 
 ---
@@ -45,7 +54,6 @@
   <h3>💡 Expertise Level</h3>
   <img src="https://skillicons.dev/icons?i=unity,cs,python,dotnet,git,github,photoshop,aftereffects" /><br><br>
 </div>
-
 
 ---
 
