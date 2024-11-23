@@ -1,7 +1,9 @@
 <div align="center">
+  
+  <!-- 다중 애니메이션 배너 -->
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=4000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&width=800&height=110&lines=Welcome+to+My+Creative+Space+%F0%9F%8C%9F;Game+Developer+%F0%9F%8E%AE+%7C%7C+Tech+Enthusiast+%F0%9F%92%BB)
 
-</dev>
+</div>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A960FF,100:FF69B4&height=290&section=header&text=Creative%20Developer&fontSize=90&animation=fadeIn&fontAlignY=31&desc=Crafting%20Digital%20Experiences%20with%20Passion%20🚀&descAlignY=51&descAlign=74&fontColor=ffffff&font=Montserrat" width="100%"/>
 </div>
