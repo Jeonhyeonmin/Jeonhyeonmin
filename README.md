@@ -21,9 +21,7 @@
 ---
 
 <!-- 백준 프로필 배지 섹션 -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=narim144)](https://solved.ac/narim144/)
-
-
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle}&color=ff69b4)](https://solved.ac/{handle})
 
 <!-- 개발 도구 배너 섹션 -->
 <div align="center">
