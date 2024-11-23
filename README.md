@@ -87,7 +87,7 @@
 <!-- 백준 프로필 배지 타이틀 -->
 <div align="center">
   <h3 style="color: #4c88ff; font-family: 'IBM Plex Mono', monospace;">
-    백준 프로필 🌟
+    Backjoon Profile 🌟
   </h3>
 </div>
 
