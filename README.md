@@ -26,29 +26,30 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&width=435&lines=Tech+Stack+%F0%9F%92%BB" alt="Tech Stack"/>
 </div>
 
+<!-- 개발 도구 배너 섹션 -->
 <div align="center">
-  
-  <!-- 개발 도구 배너 -->
-  <img src="https://skillicons.dev/icons?i=unity,cs,python,dotnet,gcp" /><br>
-  
-  <!-- IDE & 에디터 배너 -->
-  <img src="https://skillicons.dev/icons?i=rider,visualstudio,vscode" /><br>
-  
-  <!-- 디자인 도구 배너 -->
-  <img src="https://skillicons.dev/icons?i=photoshop,aftereffects,illustrator,pr" />
-
+  <h3>💻 Development Tools</h3>
+  <img src="https://skillicons.dev/icons?i=unity,cs,python,dotnet,gcp" /><br><br>
 </div>
 
+<!-- IDE & 에디터 배너 섹션 -->
+<div align="center">
+  <h3>🧑‍💻 IDE & Editors</h3>
+  <img src="https://skillicons.dev/icons?i=rider,visualstudio,vscode" /><br><br>
+</div>
+
+<!-- 디자인 도구 배너 섹션 -->
+<div align="center">
+  <h3>🎨 Design Tools</h3>
+  <img src="https://skillicons.dev/icons?i=photoshop,aftereffects,illustrator,pr" /><br><br>
+</div>
 
 <!-- 스킬 진행바 개선 -->
 <div align="center">
   <h2>💡 Expertise Level</h2>
-  
-  <img src="https://skillicons.dev/icons?i=unity,cs,python,dotnet,git,github" /><br>
-  
+  <img src="https://skillicons.dev/icons?i=unity,cs,python,dotnet,git,github" /><br><br>
 </div>
 
----
 
 <!-- 개발 포커스 섹션 -->
 <div align="center">
