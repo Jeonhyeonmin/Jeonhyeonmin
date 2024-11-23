@@ -61,19 +61,18 @@
 <!-- GitHub 통계 섹션 -->
 <div align="center">
   <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=600&size=30&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&width=435&lines=GitHub+Statistics+%F0%9F%93%88" alt="Stats"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=600&size=30&duration=3000&pause=1000&color=4c88ff&center=true&vCenter=true&width=435&lines=GitHub+Statistics+%F0%9F%93%88" alt="Stats"/>
 </div>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jeonhyeonmin&show_icons=true&count_private=true&hide_border=true&title_color=A960FF&icon_color=A960FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeonhyeonmin&hide_border=true&stroke=A960FF&background=0D1117&ring=A960FF&fire=A960FF&currStreakLabel=A960FF" alt="Contribution Streak" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jeonhyeonmin&show_icons=true&count_private=true&hide_border=true&title_color=4c88ff&icon_color=4c88ff&text_color=333333&bg_color=ffffff" alt="GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeonhyeonmin&hide_border=true&stroke=4c88ff&background=ffffff&ring=4c88ff&fire=4c88ff&currStreakLabel=4c88ff" alt="Contribution Streak" />
 </div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Jeonhyeonmin&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
----
 
 <!-- 프로젝트 섹션 -->
 <div align="center">
