@@ -1,24 +1,28 @@
 <div align="center">
   
-  <!-- 동적 배너 효과 -->
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&width=600&lines=안녕하세요+%F0%9F%91%8B;Creative+Game+Developer;Unity+%26+C%23+Enthusiast;Welcome+to+My+Digital+Garden+%F0%9F%8C%B1)
+  <!-- 커스텀 폰트를 적용한 동적 배너 -->
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&width=600&lines=Hello+World!+%F0%9F%8C%9F;Creative+Game+Developer;Unity+%26+C%23+Enthusiast;Welcome+to+My+Digital+Garden+%F0%9F%8C%B1)
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Creative%20Developer&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Crafting%20Digital%20Experiences%20with%20Passion&descAlignY=51&descAlign=62" width="100%"/>
+  <!-- 커스텀 폰트를 적용한 헤더 -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Creative%20Developer&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Crafting%20Digital%20Experiences%20with%20Passion&descAlignY=51&descAlign=62&fontColor=ffffff&font=Righteous" width="100%"/>
 </div>
 
-<!-- 프로필 뷰 카운터 -->
+<!-- 프로필 뷰 카운터 (Bebas Neue 폰트 적용) -->
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=A960FF&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=A960FF&style=for-the-badge&font=Bebas+Neue" alt="Profile Views"/>
 </div>
 
 ---
 
-<h2 align="center">🎮 Tech Stack & Creative Arsenal 🎨</h2>
+<!-- 커스텀 폰트를 적용한 섹션 헤더 -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&width=435&lines=Tech+Stack+%26+Creative+Arsenal" alt="Section Header"/>
+</div>
 
-<!-- 스킬 진행바 애니메이션 -->
+<!-- 스킬 진행바 (폰트: JetBrains Mono) -->
 <div align="center">
 
 ```text
@@ -31,25 +35,21 @@ After Effects████████████████░░░░░   7
 
 </div>
 
-<!-- 확장된 기술 스택 뱃지 -->
+<!-- 확장된 기술 스택 뱃지 (폰트는 뱃지 시스템 내에서 지정) -->
 <div align="center">
   
   ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white&labelColor=black&color=black)
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=purple&color=purple)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=blue&color=blue)
   
-  ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white&labelColor=crimson&color=crimson)
-  ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=0078D4&color=0078D4)
-  
-  ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white&labelColor=31A8FF&color=31A8FF)
-  ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe%20after%20effects&logoColor=white&labelColor=9999FF&color=9999FF)
-  ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinci%20resolve&logoColor=white)
-
 </div>
 
 ---
 
-<h2 align="center">🌟 About My Creative Journey 🚀</h2>
+<!-- 커스텀 폰트를 적용한 About Me 섹션 -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=40&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&width=435&lines=About+My+Creative+Journey" alt="About Me Header"/>
+</div>
 
 <table align="center">
 <tr>
@@ -76,19 +76,22 @@ After Effects████████████████░░░░░   7
 
 ---
 
-<h2 align="center">📊 GitHub Analytics ⚡</h2>
+<!-- GitHub 통계 섹션 (폰트: Roboto) -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&width=435&lines=GitHub+Analytics" alt="Analytics Header"/>
+</div>
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide_border=true&title_color=A960FF&icon_color=A960FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&hide_border=true&stroke=A960FF&background=0D1117&ring=A960FF&fire=A960FF&currStreakLabel=A960FF" alt="Contribution Streak" />
 </div>
 
-<!-- 3D Contribution Calendar -->
-![3D Contribution Calendar](https://skyline.github.com/your-username/2024)
-
 ---
 
-<h2 align="center">🎯 Featured Projects 💫</h2>
+<!-- 프로젝트 섹션 헤더 -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=35&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&width=435&lines=Featured+Projects" alt="Projects Header"/>
+</div>
 
 <div align="center">
   <a href="https://github.com/your-username/project1">
@@ -101,7 +104,10 @@ After Effects████████████████░░░░░   7
 
 ---
 
-<h2 align="center">🤝 Connect With Me 🌐</h2>
+<!-- 연락처 섹션 -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&size=35&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&width=435&lines=Connect+With+Me" alt="Connect Header"/>
+</div>
 
 <div align="center">
   <a href="mailto:your.email@gmail.com">
@@ -121,5 +127,5 @@ After Effects████████████████░░░░░   7
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&font=Righteous" width="100%"/>
 </div>
