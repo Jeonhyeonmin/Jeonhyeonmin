@@ -1,9 +1,3 @@
-<div align="center" style="background-image: url('https://example.com/starry-sky.jpg'); background-size: cover; height: 100vh; color: white;">
-  <h1>Welcome to My GitHub Profile</h1>
-  <p>Explore my projects and collaborations.</p>
-</div>
-
-
 <div align="center">
   
   <!-- 다중 애니메이션 배너 -->
