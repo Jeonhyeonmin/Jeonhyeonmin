@@ -87,23 +87,28 @@
 
 <!-- 백준 프로필 배지 타이틀 -->
 <div align="center">
-  <h2 style="color: #4c88ff; font-family: 'IBM Plex Mono', monospace;">
+  <h2 style="color: #4c88ff; font-family: 'IBM Plex Mono', monospace; font-weight: bold; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);">
     Backjoon Profile 🌟
   </h2>
 </div>
+
 <!-- 백준 프로필 배지와 Mazandi 프로필 배지 가로 정렬 -->
-<div align="center">
-  <a href="https://solved.ac/narim144" style="margin-right: 20px;">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=narim144" alt="Solved.ac Profile"/>
+<div align="center" style="display: flex; justify-content: center; gap: 30px; margin-top: 20px;">
+  <a href="https://solved.ac/narim144">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=narim144" alt="Solved.ac Profile" style="border-radius: 12px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
   </a>
   
-  <a href="http://mazandi.herokuapp.com/" style="margin-left: 20px;">
-    <img src="http://mazandi.herokuapp.com/api?handle=narim144&theme=warm" alt="Mazandi Profile"/>
+  <a href="http://mazandi.herokuapp.com/">
+    <img src="http://mazandi.herokuapp.com/api?handle=narim144&theme=warm" alt="Mazandi Profile" style="border-radius: 12px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
   </a>
 </div>
 
-<hr>
+<!-- 구분선 -->
+<hr style="border: 1px solid #4c88ff; width: 80%; margin: 30px auto;"/>
+
+<!-- 공백 추가 -->
 <br>
+
 
 <!-- 연락처 섹션 -->
 <div align="center">
