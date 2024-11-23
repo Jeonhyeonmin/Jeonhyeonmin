@@ -32,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=unity,cs,python,dotnet,gcp" /><br>
   
   <!-- IDE & 에디터 배너 -->
-  <img src="https://skillicons.dev/icons?i=rider,vs,vs_code" /><br>
+  <img src="https://skillicons.dev/icons?i=rider,visualstudio,vscode" /><br>
   
   <!-- 디자인 도구 배너 -->
   <img src="https://skillicons.dev/icons?i=photoshop,aftereffects,davinci,illustrator,premierepro" />
