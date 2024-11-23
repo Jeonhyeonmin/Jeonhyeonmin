@@ -96,11 +96,22 @@
   <a href="https://solved.ac/narim144">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=narim144" alt="Solved.ac Profile"/>
   </a>
+</div>
+
+<!-- CodeForces 프로필 배지 타이틀 -->
 <div align="center">
-  <a href="https://solved.ac/profile/narim144/arena">
-    <img src="https://solvedac.junah.dev/v1/generate_badge?handle=narim144" alt="solved.ac Badge"/>
+  <h3 style="color: #4c88ff; font-family: 'IBM Plex Mono', monospace;">
+    CodeForces Profile 🖥️
+  </h3>
+</div>
+
+<!-- CodeForces 프로필 배지 -->
+<div align="center">
+  <a href="https://codeforces.com/profile/narim144">
+    <img src="https://cf.leed.at?id=narim144" alt="CodeForces Profile"/>
   </a>
 </div>
+
 
 <hr>
 <br>
