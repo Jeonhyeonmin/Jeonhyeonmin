@@ -91,23 +91,13 @@
   </h3>
 </div>
 
-<!-- 백준 프로필 배지 -->
+<!-- 백준 프로필 배지와 Mazandi 프로필 배지 가로 정렬 -->
 <div align="center">
-  <a href="https://solved.ac/narim144">
+  <a href="https://solved.ac/narim144" style="margin-right: 20px;">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=narim144" alt="Solved.ac Profile"/>
   </a>
-</div>
-
-<!-- mazandi 프로필 배지 타이틀 -->
-<div align="center">
-  <h3 style="color: #4c88ff; font-family: 'IBM Plex Mono', monospace;">
-    Mazandi Profile 🌟
-  </h3>
-</div>
-
-<!-- mazandi 프로필 배지 -->
-<div align="center">
-  <a href="http://mazandi.herokuapp.com/">
+  
+  <a href="http://mazandi.herokuapp.com/" style="margin-left: 20px;">
     <img src="http://mazandi.herokuapp.com/api?handle=narim144&theme=warm" alt="Mazandi Profile"/>
   </a>
 </div>
