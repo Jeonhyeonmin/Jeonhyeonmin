@@ -81,8 +81,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Jeonhyeonmin&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
-<hr>
 <br>
+<hr>
 
 <!-- 백준 프로필 배지 타이틀 -->
 <div align="center">
