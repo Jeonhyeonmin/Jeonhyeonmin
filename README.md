@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=flat-square)  
 
 <p align="center">
-  <img src="https://github.com/your-username/your-repo-name/raw/main/assets/banner.png" alt="Banner" />
+  <img src="https://github.com/Jeonhyeonmin/Jeonhyeonmin/raw/main/assets/banner.png" alt="Banner" />
 </p>
 
 ---
