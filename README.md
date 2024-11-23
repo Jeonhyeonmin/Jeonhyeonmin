@@ -83,14 +83,14 @@
 
 <br>
 <hr>
+<br>
 
 <!-- 백준 프로필 배지 타이틀 -->
 <div align="center">
   <h2 style="color: #4c88ff; font-family: 'IBM Plex Mono', monospace;">
     Backjoon Profile 🌟
-  </h3>
+  </h2>
 </div>
-
 <!-- 백준 프로필 배지와 Mazandi 프로필 배지 가로 정렬 -->
 <div align="center">
   <a href="https://solved.ac/narim144" style="margin-right: 20px;">
