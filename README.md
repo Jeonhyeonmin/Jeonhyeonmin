@@ -35,7 +35,7 @@
   <img src="https://skillicons.dev/icons?i=rider,visualstudio,vscode" /><br>
   
   <!-- 디자인 도구 배너 -->
-  <img src="https://skillicons.dev/icons?i=photoshop,aftereffects,davinci,illustrator,premierepro" />
+  <img src="https://skillicons.dev/icons?i=photoshop,aftereffects,illustrator,premierepro" />
 
 </div>
 
