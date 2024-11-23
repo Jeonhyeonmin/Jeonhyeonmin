@@ -13,30 +13,24 @@
 ---
 
 <div align="center">
-  
+  <!-- 배너 스타일 -->
   <style>
     .tech-badge {
       display: inline-block;
       margin: 10px;
-      transition: transform 0.3s ease, filter 0.3s ease;
-    }
-    
-    .tech-badge img {
-      border-radius: 10px;
-      width: 100px; /* 기본 크기 */
-      height: auto;
       transition: all 0.3s ease;
+    }
+
+    .tech-badge img {
+      width: 100px;
+      height: 100px;
+      border-radius: 10px;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
     }
 
     .tech-badge:hover img {
       transform: scale(1.1); /* 마우스 오버 시 확대 */
-      filter: brightness(1.2); /* 밝기 증가 */
-    }
-
-    @media (max-width: 600px) {
-      .tech-badge img {
-        width: 80px; /* 모바일에서 크기 축소 */
-      }
+      box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3); /* 마우스 오버 시 그림자 */
     }
   </style>
 
@@ -70,8 +64,6 @@
     <img src="https://img.shields.io/badge/Editor-DaVinci%20Resolve-FF8C00?style=flat&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve"/>
   </a>
 </div>
-
-
 
 
 ---
