@@ -7,7 +7,7 @@
 
 <div align="center">
   <!-- 애니메이션 헤더 배너 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A960FF,100:FF69B4&height=300&section=header&text=Creative%20Developer&fontSize=90&animation=fadeIn&fontAlignY=33&desc=Crafting%20Digital%20Experiences%20with%20Passion%20🚀&descAlignY=20&descAlign=62&fontColor=ffffff&font=Montserrat" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A960FF,100:FF69B4&height=300&section=header&text=Creative%20Developer&fontSize=90&animation=fadeIn&fontAlignY=33&desc=Crafting%20Digital%20Experiences%20with%20Passion%20🚀&descAlignY=51&descAlign=1&fontColor=ffffff&font=Montserrat" width="100%"/>
 </div>
 
 <!-- 프로필 뷰 카운터 + 소셜 뱃지 -->
