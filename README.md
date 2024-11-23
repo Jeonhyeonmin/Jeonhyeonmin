@@ -66,11 +66,11 @@
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jeonhyeonmin&show_icons=true&count_private=true&hide_border=true&title_color=4c88ff&icon_color=4c88ff&text_color=333333&bg_color=ffffff" alt="GitHub Stats" />
-  <br><br>
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeonhyeonmin&hide_border=true&stroke=4c88ff&background=ffffff&ring=4c88ff&fire=4c88ff&currStreakLabel=4c88ff" alt="Contribution Streak" />
 </div>
 
 <div align="center">
+  <br><br>
   <img src="https://github-profile-trophy.vercel.app/?username=Jeonhyeonmin&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
