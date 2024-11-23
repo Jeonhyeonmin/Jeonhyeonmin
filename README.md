@@ -77,22 +77,6 @@
 <br><br>
 <hr>
 
-<!-- 프로젝트 섹션 -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=30&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&width=435&lines=Featured+Projects+%F0%9F%93%82" alt="Projects"/>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Jeonhyeonmin/project1">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeonhyeonmin&repo=project1&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF"/>
-  </a>
-  <a href="https://github.com/Jeonhyeonmin/project2">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeonhyeonmin&repo=project2&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF"/>
-  </a>
-</div>
-
----
-
 <!-- 연락처 섹션 -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&width=435&lines=Let's+Connect+%F0%9F%A4%9D" alt="Connect"/>
