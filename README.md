@@ -73,6 +73,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Jeonhyeonmin&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
+<hr>
 <br><br>
 
 <!-- 프로젝트 섹션 -->
