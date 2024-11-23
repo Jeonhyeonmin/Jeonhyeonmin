@@ -59,7 +59,6 @@
 
 ---
 <div align="center">
-  <br>
   <h3>📈 Recent Activity</h3>
   <img src="https://ghchart.rshah.org/Jeonhyeonmin" alt="GitHub Activity Chart" width="100%" />
 </div>
