@@ -12,11 +12,11 @@
 
 <!-- 프로필 뷰 카운터 + 소셜 뱃지 -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jeonhyeonmin&label=Profile%20Views&color=A960FF&style=for-the-badge" alt="Profile Views"/>
-  <a href="https://github.com/Jeonhyeonmin?tab=followers">
-    <img src="https://img.shields.io/github/followers/Jeonhyeonmin?style=for-the-badge&logo=github&labelColor=black&color=A960FF" alt="followers"/>
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=A960FF&style=for-the-badge" alt="Profile Views"/>
+  <a href="https://github.com/your-username?tab=followers">
+    <img src="https://img.shields.io/github/followers/your-username?style=for-the-badge&logo=github&labelColor=black&color=A960FF" alt="followers"/>
   </a>
-  <img src="https://img.shields.io/github/stars/Jeonhyeonmin?style=for-the-badge&logo=github&labelColor=black&color=A960FF" alt="stars"/>
+  <img src="https://img.shields.io/github/stars/your-username?style=for-the-badge&logo=github&labelColor=black&color=A960FF" alt="stars"/>
 </div>
 
 ---
@@ -92,12 +92,12 @@
 </div>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jeonhyeonmin&show_icons=true&count_private=true&hide_border=true&title_color=A960FF&icon_color=A960FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeonhyeonmin&hide_border=true&stroke=A960FF&background=0D1117&ring=A960FF&fire=A960FF&currStreakLabel=A960FF" alt="Contribution Streak" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide_border=true&title_color=A960FF&icon_color=A960FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&hide_border=true&stroke=A960FF&background=0D1117&ring=A960FF&fire=A960FF&currStreakLabel=A960FF" alt="Contribution Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jeonhyeonmin&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
 ---
@@ -108,11 +108,11 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Jeonhyeonmin/project1">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeonhyeonmin&repo=project1&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF"/>
+  <a href="https://github.com/your-username/project1">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project1&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF"/>
   </a>
-  <a href="https://github.com/Jeonhyeonmin/project2">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeonhyeonmin&repo=project2&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF"/>
+  <a href="https://github.com/your-username/project2">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project2&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF"/>
   </a>
 </div>
 
@@ -127,11 +127,24 @@
   <a href="mailto:your.email@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/Jeonhyeonmin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/your-profile/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/Jeonhyeonmin">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://discord.gg/your-server">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </div>
 
+<!-- 스네이크 애니메이션 -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<!-- 애니메이션 푸터 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20visiting!%20👋&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=65" width="100%"/>
+</div>
