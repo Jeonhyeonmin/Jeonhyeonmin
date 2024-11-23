@@ -51,26 +51,6 @@
 
 <br><br>
 
-<!-- 개발 포커스 섹션 -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=30&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&width=435&lines=Development+Focus+%F0%9F%8E%AF" alt="Focus"/>
-</div>
-
-<!-- Core Expertise 섹션 -->
-<div align="center">
-  <h3 style="font-size: 1.8em; color: #A960FF; margin-bottom: 15px;">🚀 Core Expertise</h3>
-  <hr style="width: 80px; border-top: 3px solid #A960FF; margin: 10px auto;">
-  
-  <div style="font-size: 1.1em; color: #333; line-height: 1.8; text-align: left; width: 80%; margin: 0 auto;">
-    <p>🎮 Advanced Game Systems</p>
-    <p>🤖 AI & Machine Learning</p>
-    <p>🔧 Performance Optimization</p>
-    <p>📊 Data-Driven Development</p>
-  </div>
-</div>
-
-<br><br> <!-- 공백 추가 -->
-
 <!-- Technical Skills 섹션 -->
 <div align="center">
   <h3 style="font-size: 1.8em; color: #A960FF; margin-bottom: 15px;">💻 Technical Skills</h3>
