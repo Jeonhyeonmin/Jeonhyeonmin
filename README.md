@@ -7,8 +7,11 @@
 <h1 align="center">🌟 Welcome to My GitHub! 🌟</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7A8B8&width=435&lines=I'm+a+Passionate+Developer!;I+love+Unity+and+Coding!;Welcome+to+My+Journey!+👋" alt="Typing SVG" style="text-align: center;">
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7A8B8&width=435&lines=I'm+a+Passionate+Developer!;I+love+Unity+and+Coding!;Welcome+to+My+Journey!+👋" alt="Typing SVG" />
+  </div>
 </p>
+
 
 ---
 
