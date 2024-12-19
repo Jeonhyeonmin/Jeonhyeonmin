@@ -97,12 +97,12 @@
 </h2>
 
 <div align="center">
-  <a href="https://solved.ac/narim144">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=narim144" alt="Solved.ac Profile"/>
+  <a href="https://solved.ac/fudrim">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=fudrim" alt="Solved.ac Profile"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="http://mazandi.herokuapp.com/">
-    <img src="http://mazandi.herokuapp.com/api?handle=narim144&theme=warm" alt="Mazandi Profile"/>
+    <img src="http://mazandi.herokuapp.com/api?handle=fudrim&theme=warm" alt="Mazandi Profile"/>
   </a>
 </div>
 
