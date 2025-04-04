@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Photon-0099FF?style=for-the-badge&logo=photon&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Backendless-00BFFF?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/뒤끝s-00BFFF?style=for-the-badge&logo=cloudflare&logoColor=white"/>
 </div>
 
 ---
