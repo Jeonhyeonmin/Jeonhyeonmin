@@ -69,6 +69,10 @@
   <a href="https://discord.com/users/hyeonmin2024">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
+  <br/><br/>
+  <a href="https://in.naver.com/your_naver_id" target="_blank">
+    <img src="https://img.shields.io/badge/NAVER%20INFLUENCER-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
+  </a>
 </div>
 
 ---
