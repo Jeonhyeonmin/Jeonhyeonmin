@@ -80,11 +80,4 @@
 
 ---
 
-## 🌟 Naver Influencer
-<div align="center">
-  <img src="https://postfiles.pstatic.net/MjAyNTA0MDRfODIg/MDAxNzQzNzQ4MDEzNzIw.rpf1p7wutBmVBKeHT0TR_DBNXKWVXZgqySGIRc7q-3Ag.Q8-vVdu65rkoPavnsFltLJKbfrkMKmM1nuemaQ_pvzwg.PNG/namecard.png?type=w966" width="50%" alt="Naver Influencer Card"/>
-</div>
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20visiting!%20👋&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=65" width="100%"/>
