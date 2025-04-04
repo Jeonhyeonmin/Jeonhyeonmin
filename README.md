@@ -17,7 +17,14 @@
 ---
 
 ## 🔧 Familiar Tools
-<div align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white"/> </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+</div>
 
 ---
 
@@ -69,10 +76,13 @@
   <a href="https://discord.com/users/hyeonmin2024">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <br/><br/>
-  <a href="https://in.naver.com/your_naver_id" target="_blank">
-    <img src="https://img.shields.io/badge/NAVER%20INFLUENCER-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
-  </a>
+</div>
+
+---
+
+## 🌟 Naver Influencer
+<div align="center">
+  <img src="https://private-user-images.githubusercontent.com/133362613/430251161-a86a3d3b-294d-4c6e-89dc-ecb694224e02.png" width="50%" alt="Naver Influencer Card"/>
 </div>
 
 ---
