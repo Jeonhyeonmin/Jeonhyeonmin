@@ -5,8 +5,7 @@
 
 </div>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A960FF,100:FF69B4&height=290&section=header&text=Creative%20Developer&fontSize=90&animation=fadeIn&fontAlignY=31&desc=Crafting%20Digital%20Experiences%20with%20Passion%20🚀&descAlignY=51&descAlign=74&fontColor=ffffff&font=Montserrat" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A960FF,100:FF69B4&height=290&section=header&text=Creative%20Developer&fontSize=90&animation=fadeIn&fontAlignY=31&desc=Crafting%20Digital%20Experiences%20with%20Passion%20🚀&descAlignY=51&descAlign=74&fontColor=ffffff&font=Montserrat" width="100%"/>
 
 <br><br>
 
@@ -88,23 +87,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Jeonhyeonmin&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy"/>
 </p>
-
-<br>
-
-<!-- Algorithm Section -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=600&size=30&duration=3000&pause=1000&color=4c88ff&center=true&vCenter=true&width=435&lines=BackJoon+Rank+🏆" alt="Ranks"/>
-</h2>
-
-<div align="center">
-  <a href="https://solved.ac/fudrim">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=fudrim" alt="Solved.ac Profile"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="http://mazandi.herokuapp.com/">
-    <img src="http://mazandi.herokuapp.com/api?handle=fudrim&theme=warm" alt="Mazandi Profile"/>
-  </a>
-</div>
 
 <br>
 
