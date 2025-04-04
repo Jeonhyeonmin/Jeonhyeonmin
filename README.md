@@ -82,7 +82,7 @@
 
 ## 🌟 Naver Influencer
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/133362613/430251161-a86a3d3b-294d-4c6e-89dc-ecb694224e02.png" width="50%" alt="Naver Influencer Card"/>
+  <img src="https://postfiles.pstatic.net/MjAyNTA0MDRfODIg/MDAxNzQzNzQ4MDEzNzIw.rpf1p7wutBmVBKeHT0TR_DBNXKWVXZgqySGIRc7q-3Ag.Q8-vVdu65rkoPavnsFltLJKbfrkMKmM1nuemaQ_pvzwg.PNG/namecard.png?type=w966" width="50%" alt="Naver Influencer Card"/>
 </div>
 
 ---
