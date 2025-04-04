@@ -56,7 +56,6 @@
 ## 📈 GitHub Statistics
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jeonhyeonmin&show_icons=true&count_private=true&hide_border=true&title_color=7F00FF&icon_color=E100FF&text_color=333333&bg_color=ffffff" alt="GitHub Stats"/>
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeonhyeonmin&hide_border=true&stroke=7F00FF&background=ffffff&ring=E100FF&fire=E100FF&currStreakLabel=7F00FF" alt="Contribution Streak"/>
 </div>
 
 ---
