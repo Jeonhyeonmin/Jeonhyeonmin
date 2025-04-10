@@ -42,14 +42,14 @@
 
 <!-- 네이버 블로그 업적 박스 -->
 <div style="max-width: 800px; margin: 0 auto; border: 1px solid #ddd; padding: 10px; border-radius: 8px;">
-  <table cellpadding="0" cellspacing="0" style="width: 100%;">
+  <table>
     <tr>
-      <td width="140" align="center" style="padding: 0;">
+      <td width="140" align="center">
         <a href="https://in.naver.com/akkari" target="_blank">
           <img src="https://postfiles.pstatic.net/MjAyNTA0MTFfMTg3/MDAxNzQ0MzAzODczNDU1.-Tsdq9__RHpEMNTq7J02js6-iagN9hNH7kh57rpnyD8g.VOzIpe_aiRd5TrGV8wKkHNpmW6M2J8E9snk5oizI1CMg.GIF/logo.a61f5142308413b313275c691aa13c9a.gif?type=w966" width="100" alt="Naver Partner Square"/>
         </a>
       </td>
-      <td valign="middle" style="padding: 0;" width="100%">
+      <td valign="middle">
         <strong>2020년부터 네이버 게임 블로거</strong>로 활동하며,<br/>
         <strong>네이버 인플루언서와 파트너 스퀘어 공식 선정</strong><br>
         <strong>프리미엄 광고 캠페인 대표 블로그</strong>로 발탁<br>
@@ -60,16 +60,14 @@
   </table>
 </div>
 
-<br/>
-
 <!-- 교내 개발 대회 업적 박스 -->
 <div style="max-width: 800px; margin: 0 auto; border: 1px solid #ddd; padding: 10px; border-radius: 8px;">
-  <table cellpadding="0" cellspacing="0" style="width: 100%;">
+  <table>
     <tr>
-      <td width="140" align="center" style="padding: 0;">
+      <td width="140" align="center">
         <img src="https://i.namu.wiki/i/6uPw-BTvA_YKdpp8kM-i9ylSGsRdRoOuLmcVvBrc1NB1ngh8TUSjLRSAbVxqlSBpcG1BulmMyYbFkCpPjcX0Cw.webp" width="100" alt="Unreal Logo">
       </td>
-      <td valign="middle" style="padding: 0;" width="100%">
+      <td valign="middle">
         <strong>인천정보과학고등학교 교내 게임 및 소프트웨어 개발 팀 대회</strong>에서<br/>
         언리얼 엔진 기반 <strong>레벨 디자이너</strong>로 참가해 <strong>2위 수상</strong><br/>
         학교를 배경으로 한 게임이 <strong>교장 선생님의 마음을 울린 경쟁작</strong>에 밀려<br/>
@@ -78,8 +76,6 @@
     </tr>
   </table>
 </div>
-
-
 
 ---
 
