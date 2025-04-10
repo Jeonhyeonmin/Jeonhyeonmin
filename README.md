@@ -51,7 +51,8 @@
       <strong>네이버 게임 블로거</strong>로 활동하며,<br/>
       <strong>네이버 인플루언서와 파트너 스퀘어 공식 선정</strong><br>
       <strong>프리미엄 광고 캠페인 대표 블로그</strong>로 발탁<br>
-      <string>하루 방문자 40K+ 블로그 운영 경험 보유</string> 
+      <strong>일일 방문자 40K+ 블로그 운영 경험</strong>과<br>
+      <strong>Nox, 등 각종 게임사와 게임 관련 소프트웨어사의 광고 협업 이력</string> 
     </td>
   </tr>
 </table>
