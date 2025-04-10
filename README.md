@@ -41,8 +41,8 @@
 ## 🏅 Achievements
 
 <!-- 네이버 블로그 업적 박스 -->
-<div style="max-width: 1200px; margin: 0 auto; border: 1px solid #ddd; padding: 10px; border-radius: 8px;">
-  <table style="width: 100%;">
+<div style="width: 100%; margin: 0; border: 1px solid #ddd; padding: 10px; border-radius: 8px;">
+  <table style="width: 100%; max-width: 1200px; margin: 0 auto;">
     <tr>
       <td width="140" align="center">
         <a href="https://in.naver.com/akkari" target="_blank">
@@ -61,8 +61,8 @@
 </div>
 
 <!-- 교내 개발 대회 업적 박스 -->
-<div style="max-width: 800px; margin: 0 auto; border: 1px solid #ddd; padding: 10px; border-radius: 8px;">
-  <table style="width: 100%;">
+<div style="width: 100%; margin: 0; border: 1px solid #ddd; padding: 10px; border-radius: 8px;">
+  <table style="width: 100%; max-width: 800px; margin: 0 auto;">
     <tr>
       <td width="140" align="center">
         <img src="https://i.namu.wiki/i/6uPw-BTvA_YKdpp8kM-i9ylSGsRdRoOuLmcVvBrc1NB1ngh8TUSjLRSAbVxqlSBpcG1BulmMyYbFkCpPjcX0Cw.webp" width="100" alt="Unreal Logo">
