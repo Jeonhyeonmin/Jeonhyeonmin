@@ -40,7 +40,7 @@
 
 ## 🏅 Achievements
 
-<div style="max-width: 800px; margin: 0 auto; border: 1px solid #ddd; padding: 10px; border-radius: 8px;">
+<div style="max-width: 1400px; margin: 0 auto; border: 1px solid #ddd; padding: 10px; border-radius: 8px;">
 
   <table>
     <tr>
