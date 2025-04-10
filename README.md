@@ -74,7 +74,7 @@
         인천정보과학고등학교 <strong>교내 게임 및 소프트웨어 개발 대회</strong>에서<br/>
         <strong>언리얼 엔진 기반 레벨 디자이너</strong>로 참가해 <strong>2위 수상</strong><br/>
         학교를 배경으로 한 창의적인 게임이 <em>교장쌤의 마음을 울린 경쟁작</em>에 밀려<br/>
-        <strong>아쉽게 1위를 놓친 비하인드</strong>도 있음 😂
+        <strong>따놓은 듯했던 1위를 놓친 아쉬운 비하인드</strong>도 존재 😂
       </td>
     </tr>
   </table>
