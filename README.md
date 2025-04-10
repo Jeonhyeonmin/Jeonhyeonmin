@@ -38,6 +38,11 @@
 
 ---
 
+🏅 Achievements
+<div align="center"> <img src="https://img.shields.io/badge/네이버%20파트너%20스퀘어-%20선정-BD33A4?style=for-the-badge&logo=naver&logoColor=white"/> <br/> 게임 분석 블로그 운영을 통해 콘텐츠 전문성을 인정받아 네이버 파트너 스퀘어에 선정됨 </div>
+
+---
+
 ## 📊 Development Activity
 <div align="center">
   <img src="https://ghchart.rshah.org/Jeonhyeonmin" alt="GitHub Activity Chart" width="100%"/>
