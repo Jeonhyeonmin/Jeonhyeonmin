@@ -40,7 +40,8 @@
 
 ## 🏅 Achievements
 
-<div style="max-width: 800px; margin: 0 auto; border: 1px solid #ddd; padding: 10px; border-radius: 8px;">
+<!-- 네이버 블로그 업적 -->
+<div style="max-width: 800px; margin: 0 auto 20px auto; border: 1px solid #ddd; padding: 10px; border-radius: 8px;">
 
   <table>
     <tr>
@@ -55,6 +56,25 @@
         <strong>프리미엄 광고 캠페인 대표 블로그</strong>로 발탁<br>
         <strong>일일 방문자 75K+ 블로그 운영 경험</strong>과<br>
         <strong>NOX, ASUS, CAMELMOUNT 등 각종 게임사와 관련사의 마케팅 팀과 협업 경험</strong>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<!-- 학교 개발 대회 업적 -->
+<div style="max-width: 800px; margin: 0 auto; border: 1px solid #ddd; padding: 10px; border-radius: 8px;">
+
+  <table>
+    <tr>
+      <td width="140" align="center">
+        🎮
+      </td>
+      <td valign="middle">
+        인천정보과학고등학교 <strong>교내 게임 및 소프트웨어 개발 대회</strong>에서<br/>
+        <strong>언리얼 엔진 기반 레벨 디자이너</strong>로 참가해 <strong>2위 수상</strong><br/>
+        학교를 배경으로 한 창의적인 게임이 <em>교장쌤의 마음을 울린 경쟁작</em>에 밀려<br/>
+        <strong>아쉽게 1위를 놓친 비하인드</strong>도 있음 😂
       </td>
     </tr>
   </table>
