@@ -40,26 +40,25 @@
 
 ## 🏅 Achievements
 
-<div align="center">
-
-<table>
+<table align="center">
   <tr>
     <td align="center">
-      <a href="https://blog.naver.com/PostList.naver?blogId=4032h&amp;categoryNo=1&amp;from=postList&amp;parentCategoryNo=1#" target="_blank">
+      <a href="https://blog.naver.com/PostList.naver?blogId=4032h&categoryNo=1&from=postList&parentCategoryNo=1#" target="_blank">
         <img src="https://postfiles.pstatic.net/MjAyNTA0MTFfMTg3/MDAxNzQ0MzAzODczNDU1.-Tsdq9__RHpEMNTq7J02js6-iagN9hNH7kh57rpnyD8g.VOzIpe_aiRd5TrGV8wKkHNpmW6M2J8E9snk5oizI1CMg.GIF/logo.a61f5142308413b313275c691aa13c9a.gif?type=w966" width="300" alt="Naver Partner Square GIF"/>
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding-top: 12px;">
-      게임 분석 블로그를 통해<br/>
-      **네이버 파트너 스퀘어 선정** 및<br/>
-      **네이버 인플루언서 프리미엄 광고 대상자**로 발탁
+    <td align="center">
+      <sub>
+        데이터 기반의 게임 인사이트 제공으로<br/>
+        **콘텐츠 전략성과 전달력**을 인정받아<br/>
+        <strong>네이버 파트너 스퀘어</strong> 공식 선정,<br/>
+        <strong>프리미엄 광고 대상 인플루언서</strong>로 발탁
+      </sub>
     </td>
   </tr>
 </table>
-
-</div>
 
 ---
 
