@@ -40,8 +40,8 @@
 
 ## 🏅 Achievements
 
-<!-- 네이버 블로그 업적 -->
-<div style="max-width: 800px; margin: 0 auto; border: 1px solid #ddd; padding: 10px; border-radius: 8px; display: flex; align-items: center; gap: 20px; margin-bottom: 10px;">
+<!-- 네이버 블로그 업적 박스 -->
+<div style="max-width: 800px; margin: 0 auto; border: 1px solid #444; padding: 10px; border-radius: 8px; display: flex; align-items: center; gap: 20px; box-sizing: border-box; margin-bottom: 20px;">
   <div style="flex-shrink: 0;">
     <a href="https://in.naver.com/akkari" target="_blank">
       <img src="https://postfiles.pstatic.net/MjAyNTA0MTFfMTg3/MDAxNzQ0MzAzODczNDU1.-Tsdq9__RHpEMNTq7J02js6-iagN9hNH7kh57rpnyD8g.VOzIpe_aiRd5TrGV8wKkHNpmW6M2J8E9snk5oizI1CMg.GIF/logo.a61f5142308413b313275c691aa13c9a.gif?type=w966" width="100" alt="Naver Partner Square"/>
@@ -52,12 +52,12 @@
     <strong>네이버 인플루언서와 파트너 스퀘어 공식 선정</strong><br/>
     <strong>프리미엄 광고 캠페인 대표 블로그</strong>로 발탁<br/>
     <strong>일일 방문자 75K+ 블로그 운영 경험</strong>과<br/>
-    <strong>NOX, ASUS, CAMELMOUNT 등 각종 게임사와 관련사의 마케팅 팀과 협업 경험</strong>
+    <strong>NOX, ASUS, CAMELMOUNT</strong> 등 각종 게임사와 관련사의 마케팅 팀과 협업 경험
   </div>
 </div>
 
-<!-- 교내 개발 대회 업적 -->
-<div style="max-width: 800px; margin: 0 auto; border: 1px solid #ddd; padding: 10px; border-radius: 8px; display: flex; align-items: center; gap: 20px;">
+<!-- 교내 대회 업적 박스 -->
+<div style="max-width: 800px; margin: 0 auto; border: 1px solid #444; padding: 10px; border-radius: 8px; display: flex; align-items: center; gap: 20px; box-sizing: border-box;">
   <div style="flex-shrink: 0;">
     <img src="https://i.namu.wiki/i/6uPw-BTvA_YKdpp8kM-i9ylSGsRdRoOuLmcVvBrc1NB1ngh8TUSjLRSAbVxqlSBpcG1BulmMyYbFkCpPjcX0Cw.webp" width="100" alt="학교 개발 대회"/>
   </div>
