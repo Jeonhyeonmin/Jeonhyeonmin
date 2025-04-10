@@ -41,7 +41,7 @@
 ## 🏅 Achievements
 
 <!-- 네이버 블로그 업적 박스 -->
-<div style="max-width: 800px; margin: 0 auto; border: 1px solid #ddd; padding: 10px; border-radius: 8px;">
+<div style="max-width: 1200px; margin: 0 auto; border: 1px solid #ddd; padding: 10px; border-radius: 8px;">
   <table style="width: 100%;">
     <tr>
       <td width="140" align="center">
