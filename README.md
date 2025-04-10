@@ -43,7 +43,7 @@
 <div align="center">
 
 <a href="https://blog.naver.com/PostList.naver?blogId=4032h&categoryNo=1&from=postList&parentCategoryNo=1#" target="_blank">
-  <img src="https://mblogvideo-phinf.pstatic.net/MjAyNTA0MTFfMTg3/MDAxNzQ0MzAzODczNDU1.-Tsdq9__RHpEMNTq7J02js6-iagN9hNH7kh57rpnyD8g.VOzIpe_aiRd5TrGV8wKkHNpmW6M2J8E9snk5oizI1CMg.GIF/logo.a61f5142308413b313275c691aa13c9a.gif?type=mp4w800" width="300" alt="Naver Partner Square GIF"/>
+  <img src="https://postfiles.pstatic.net/MjAyNTA0MTFfMTg3/MDAxNzQ0MzAzODczNDU1.-Tsdq9__RHpEMNTq7J02js6-iagN9hNH7kh57rpnyD8g.VOzIpe_aiRd5TrGV8wKkHNpmW6M2J8E9snk5oizI1CMg.GIF/logo.a61f5142308413b313275c691aa13c9a.gif?type=w966" width="300" alt="Naver Partner Square GIF"/>
 </a>
 
 <br/><br/>
