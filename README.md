@@ -41,13 +41,28 @@
 ## 🏅 Achievements
 
 <div align="center">
-  <img src="https://img.shields.io/badge/네이버%20파트너%20스퀘어-%20선정-BD33A4?style=for-the-badge&logo=naver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/네이버%20인플루언서-%20프리미엄%20광고%20대상자-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
-  <br/><br/>
-  <sub>
-    게임 분석 블로그를 통해 콘텐츠 기획 및 전달력에서 우수성을 인정받아<br/>
-    <strong>네이버 파트너 스퀘어 선정</strong> 및 <strong>네이버 인플루언서 프리미엄 광고 대상자</strong>로 발탁되었습니다.
-  </sub>
+
+<table>
+  <tr>
+    <td align="center" width="160">
+      <img src="https://img.icons8.com/color/96/naver.png" width="48" alt="Naver Icon"/>
+    </td>
+    <td>
+      <strong>네이버 파트너 스퀘어 선정</strong><br/>
+      게임 분석 블로그를 기반으로 콘텐츠 기획 및 전달력에서 우수성을 인정받아 선정
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/ios-filled/100/03C75A/megaphone.png" width="48" alt="Megaphone Icon"/>
+    </td>
+    <td>
+      <strong>네이버 인플루언서 프리미엄 광고 대상자</strong><br/>
+      영향력 있는 게임 분석 콘텐츠로 프리미엄 광고 타겟 크리에이터로 발탁
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
