@@ -65,7 +65,7 @@
   <table>
     <tr>
       <td width="140" align="center">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ehSed-o_0ieN-BMmXR-SazkN1qNMxdZQiw&s" width="100" alt="Unreal Logo">
+        <img src="https://i.namu.wiki/i/6uPw-BTvA_YKdpp8kM-i9ylSGsRdRoOuLmcVvBrc1NB1ngh8TUSjLRSAbVxqlSBpcG1BulmMyYbFkCpPjcX0Cw.webp" width="100" alt="Unreal Logo">
       </td>
       <td valign="middle">
         <strong>인천정보과학고등학교 교내 게임 및 소프트웨어 개발 팀 대회</strong>에서<br/>
