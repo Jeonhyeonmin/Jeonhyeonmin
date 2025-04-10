@@ -42,26 +42,17 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="160">
-      <img src="https://img.icons8.com/color/96/naver.png" width="48" alt="Naver Icon"/>
-    </td>
-    <td>
-      <strong>네이버 파트너 스퀘어 선정</strong><br/>
-      게임 분석 블로그를 기반으로 콘텐츠 기획 및 전달력에서 우수성을 인정받아 선정
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/ios-filled/100/03C75A/megaphone.png" width="48" alt="Megaphone Icon"/>
-    </td>
-    <td>
-      <strong>네이버 인플루언서 프리미엄 광고 대상자</strong><br/>
-      영향력 있는 게임 분석 콘텐츠로 프리미엄 광고 타겟 크리에이터로 발탁
-    </td>
-  </tr>
-</table>
+<a href="https://blog.naver.com/PostList.naver?blogId=4032h&categoryNo=1&from=postList&parentCategoryNo=1#" target="_blank">
+  <img src="https://img.icons8.com/color/96/naver.png" width="48" alt="Naver Blog Icon"/><br/>
+  <strong>게임 분석 블로그 운영</strong>
+</a>
+
+<br/><br/>
+
+<sub>
+  콘텐츠 기획 및 분석력으로<br/>
+  <strong>네이버 파트너 스퀘어 선정</strong> 및 <strong>인플루언서 프리미엄 광고 대상자</strong>로 발탁
+</sub>
 
 </div>
 
