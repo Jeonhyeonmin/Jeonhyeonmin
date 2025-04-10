@@ -59,9 +59,6 @@
     </tr>
   </table>
 </div>
-
-<br/>
-
 <!-- 교내 개발 대회 업적 박스 -->
 <div style="max-width: 800px; margin: 0 auto; border: 1px solid #ddd; padding: 10px; border-radius: 8px;">
   <table>
