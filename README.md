@@ -48,9 +48,10 @@
       </a>
     </td>
     <td valign="middle">
+      <strong>게임 콘텐츠 분석을 기반으로 한 전략적 기획 능력을 인정받아</strong><br/>
       <strong>네이버 게임 인플루언서</strong>로 활동하며,<br/>
-      콘텐츠 분석력을 인정받아<br/>
-      <strong>파트너 스퀘어</strong> 및 <strong>프리미엄 광고 캠페인</strong> 대상자로 선정
+      <strong>네이버 파트너 스퀘어 공식 선정</strong> 및<br/>
+      <strong>프리미엄 광고 캠페인 대표 블로그</strong>로 발탁되었습니다.
     </td>
   </tr>
 </table>
