@@ -40,7 +40,7 @@
 
 ## 🏅 Achievements
 <!-- 네이버 블로그 업적 박스 -->
-<div style="width: 100%; margin: 0; border: 1px solid #ddd; padding: 10px; border-radius: 8px; box-sizing: border-box;">
+<div style="width: 100%; margin: 0; border: 1px solid #ddd; padding: 10px; border-radius: 8px; box-sizing: border-box; text-align: center;">
   <table style="width: 100%; max-width: 1200px; margin: 0 auto; table-layout: fixed;">
     <tr>
       <td width="140" align="center" style="overflow: hidden;">
@@ -49,17 +49,17 @@
         </a>
       </td>
       <td valign="middle" style="word-wrap: break-word; overflow: hidden;">
-        <strong>2020년부터 네이버 게임 블로거</strong>로 활동이며,<br/>
+        <strong>2020년부터 네이버 게임 블로거</strong>로 활동하며,<br/>
         <strong>네이버 인플루언서와 파트너 스퀘어 공식 선정</strong><br>
         <strong>프리미엄 광고 캠페인 대표 블로그</strong>로 발탁<br>
-        <strong>일일 방문자 75K+ 블로그 운영 경험</strong>과<br>
+        <strong>일일 방문자 75K+ 블로그 운영 경험</strong>과<br/>
         <strong>NOX, ASUS, CAMELMOUNT 등 각종 게임사와 관련사의 마케팅 팀과 협업 경험</strong>
       </td>
     </tr>
   </table>
 </div>
 <!-- 교내 개발 대회 업적 박스 -->
-<div style="width: 100%; margin: 0; border: 1px solid #ddd; padding: 10px; border-radius: 8px; box-sizing: border-box;">
+<div style="width: 100%; margin: 0; border: 1px solid #ddd; padding: 10px; border-radius: 8px; box-sizing: border-box; text-align: center;">
   <table style="width: 100%; max-width: 800px; margin: 0 auto; table-layout: fixed;">
     <tr>
       <td width="140" align="center" style="overflow: hidden;">
