@@ -74,6 +74,7 @@
     </tr>
   </table>
 </div>
+
 ---
 
 ## 📊 Development Activity
