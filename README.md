@@ -64,7 +64,7 @@
 
 <!-- 문명 VI 박스 -->
 <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin-bottom: 16px;">
-  <h3>▸ 문명 VI 모드 개발 및 로컬라이징</h3>
+  <h3>▸ 문명 VI 모드 개발 및 로컬라이징 프로젝트 참여</h3>
   <ul>
     <li>Sid Meier's Civilization VI 커뮤니티 팬 모드 개발 및 번역 참여</li>
     <li>DeepL 기반 번역 파이프라인 활용 및 UI 호환성 개선</li>
