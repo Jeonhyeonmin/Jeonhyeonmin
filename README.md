@@ -93,7 +93,6 @@
     <li>예술적 감각과 실무 중심의 프로젝트 경험 모두 보유</li>
   </ul>
 </div>
-
 ---
 
 ## 📊 Development Activity
