@@ -87,7 +87,7 @@
 <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin-bottom: 16px;">
   <h3>▸ 모션 그래픽 GIF 프로필 제작 팀 운영</h3>
   <ul>
-    <li>After Effects 활용한 감각적 모션 그래픽 프로필 주문 제작</li>
+    <li>Adobe After Effects 활용한 감각적 모션 그래픽 프로필 주문 제작</li>
     <li>고객 맞춤형 제작 및 의뢰 기반 프로젝트 실무 수행</li>
     <li>디자인 팀 운영, 커뮤니케이션, 일정 및 주문 관리 전반 운영</li>
     <li>예술적 감각과 실무 중심의 프로젝트 경험 모두 보유</li>
