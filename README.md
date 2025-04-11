@@ -52,7 +52,7 @@
         <strong>2020년부터 네이버 게임 분석 블로거</strong>로 활동하며,<br/>
         <strong>네이버 인플루언서와 파트너 스퀘어 공식 선정</strong><br>
         <strong>최상위 블로그에게만 주는 프리미엄 광고 캠페인 대상자</strong>로 발탁<br>
-        <strong>일일 방문자 75K+ 평균 체류시간 4분 30초+ 블로그 운영 경험</strong>과<br>
+        <strong>일일 방문자 75K+ 평균 체류시간 4M 30S+ 블로그 운영 경험</strong>과<br>
         <strong>NOX, ASUS, CAMELMOUNT, XENICS 등 각종 게임 개발사와 관련사의 마케팅 팀과 협업으로 마케팅 실무 경험 축적</strong>
       </td>
     </tr>
