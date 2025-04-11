@@ -66,11 +66,11 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Cloud_logo.png" width="100" alt="GCP Logo">
       </td>
       <td valign="middle" style="word-wrap: break-word; overflow: hidden;">
-        <strong>Google Cloud Platform을 활용한 리눅스 기반 서버 구축 경험</strong><br/>
-        <strong>Rust, Minecraft 멀티 서버를 Ubuntu 환경에서 직접 구성</strong><br>
-        <strong>자동 실행, 백업, 크래시 복구 위한 셸 스크립트 및 크론탭 설정</strong><br>
-        <strong>성능 최적화 및 커뮤니티 운영을 포함한 24시간 서버 운영 경험</strong><br>
-        <strong>인프라 관리 및 운영 경험을 통한 DevOps 감각 확보</strong>
+        <strong>Google Cloud Platform 기반 리눅스 서버 구축 및 실전 운영</strong><br/>
+        <strong>게임 서버 아키텍처 구성 및 자가 호스팅 환경 세팅</strong><br>
+        <strong>트래픽 처리, 자동 백업, 오류 복구 위한 인프라 최적화</strong><br>
+        <strong>클라우드 리소스 모니터링 및 24시간 무중단 운영 경험</strong><br>
+        <strong>DevOps 관점에서 서버 개발과 운영을 직접 경험</strong>
       </td>
     </tr>
   </table>
