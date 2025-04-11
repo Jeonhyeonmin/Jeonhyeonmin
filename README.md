@@ -92,6 +92,23 @@
     </tr>
   </table>
 </div>
+<!-- 텍스트 마이닝 자동화 프로젝트 업적 박스 -->
+<div style="width: 100%; margin: 0; border: 1px solid #ddd; padding: 10px; border-radius: 8px; box-sizing: border-box;">
+  <table style="width: 100%; max-width: 1200px; margin: 0 auto; table-layout: fixed;">
+    <tr>
+      <td width="140" align="center" style="overflow: hidden;">
+        <img src="https://cdn-icons-png.flaticon.com/512/3281/3281310.png" width="100" alt="Text Mining Icon">
+      </td>
+      <td valign="middle" style="word-wrap: break-word; overflow: hidden;">
+        <strong>텍스트 마이닝 자동화 프로그램 개발 및 소논문 프로젝트 발표</strong><br/>
+        <strong>Python 기반 뉴스·댓글 수집 웹 크롤러 직접 개발</strong><br>
+        <strong>LDA, Word2Vec, WordNet, WordCloud 분석 자동화 파이프라인 구축</strong><br>
+        <strong>사회적 이슈 분석 및 키워드 시각화를 통해 인사이트 도출</strong><br>
+        <strong>고등학교 소논문 작성 및 발표로 학술적·기술적 성과 모두 인정</strong>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
