@@ -40,6 +40,8 @@
 
 ## 🏅 Achievements
 
+### 🎮 게임 & 콘텐츠 제작 활동
+
 <details>
 <summary><strong>네이버 게임 분석 블로거 & 인플루언서 활동 (2020~2024)</strong></summary>
 <div style="padding: 12px 0;">
@@ -48,18 +50,6 @@
   <li>최상위 블로그에게만 주어지는 프리미엄 광고 캠페인 대상자 선정</li>
   <li>최고 일일 방문자 75,000+ / 누적 방문자 50,000,000+ / 평균 체류 시간 4분 30초 이상의 고품질 블로그 운영</li>
   <li>NOX, ASUS, CAMELMOUNT, XENICS 등 각종 게임 개발사 및 관련사의 마케팅 팀과 실무 협업 경험</li>
-</ul>
-</div>
-</details>
-
-<details>
-<summary><strong>Google Cloud Platform 리눅스 서버 운영 경험</strong></summary>
-<div style="padding: 12px 0;">
-<ul>
-  <li>GCP 기반 리눅스 서버 직접 구축 및 실전 운영 경험</li>
-  <li>게임 서버 아키텍처 구성 및 셸 스크립트 자동화</li>
-  <li>트래픽 처리, 자동 백업, 오류 복구 위한 인프라 최적화</li>
-  <li>24시간 무중단 클라우드 서버 환경 유지 및 DevOps 경험 축적</li>
 </ul>
 </div>
 </details>
@@ -76,6 +66,10 @@
 </div>
 </details>
 
+---
+
+### 🧠 데이터 분석 & 자동화 프로젝트
+
 <details>
 <summary><strong>텍스트 마이닝 자동화 프로젝트</strong></summary>
 <div style="padding: 12px 0;">
@@ -86,6 +80,26 @@
 </ul>
 </div>
 </details>
+
+---
+
+### ☁️ 서버 운영 & DevOps 경험
+
+<details>
+<summary><strong>Google Cloud Platform 리눅스 서버 운영 경험</strong></summary>
+<div style="padding: 12px 0;">
+<ul>
+  <li>GCP 기반 리눅스 서버 직접 구축 및 실전 운영 경험</li>
+  <li>게임 서버 아키텍처 구성 및 셸 스크립트 자동화</li>
+  <li>트래픽 처리, 자동 백업, 오류 복구 위한 인프라 최적화</li>
+  <li>24시간 무중단 클라우드 서버 환경 유지 및 DevOps 경험 축적</li>
+</ul>
+</div>
+</details>
+
+---
+
+### 🎨 기타 실무 경험
 
 <details>
 <summary><strong>모션 그래픽 GIF 프로필 제작 팀 참여</strong></summary>
