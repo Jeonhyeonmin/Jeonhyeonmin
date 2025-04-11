@@ -87,7 +87,7 @@
         <strong>DeepL 기반 번역 파이프라인을 활용한 텍스트 로컬라이징 수행</strong><br>
         <strong>커뮤니티 제작 모드의 한국어 번역 및 UI 호환성 개선 작업 수행</strong><br>
         <strong>직접 개발한 커스텀 콘텐츠 존재 및 한글화 패치 다수 배포</strong><br>
-        <strong>글로벌 유저 및 커뮤니티와의 협업을 통한 피드백 반영 및 품질 향상</strong>
+        <strong>커뮤니티 유저들을 통한 피드백 반영 및 품질 향상</strong>
       </td>
     </tr>
   </table>
