@@ -63,7 +63,7 @@
   <table style="width: 100%; max-width: 1200px; margin: 0 auto; table-layout: fixed;">
     <tr>
       <td width="140" align="center" style="overflow: hidden;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Cloud_logo.png" width="100" alt="GCP Logo">
+        <img src="https://cloudage.ae/wp-content/uploads/2024/04/GCP-1-300x300-1.png" width="100" alt="GCP Logo">
       </td>
       <td valign="middle" style="word-wrap: break-word; overflow: hidden;">
         <strong>Google Cloud Platform 기반 리눅스 서버 구축 및 실전 운영</strong><br/>
