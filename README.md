@@ -75,6 +75,24 @@
     </tr>
   </table>
 </div>
+<!-- 문명 VI 모드 제작 및 한글화 업적 박스 -->
+<div style="width: 100%; margin: 0; border: 1px solid #ddd; padding: 10px; border-radius: 8px; box-sizing: border-box;">
+  <table style="width: 100%; max-width: 1200px; margin: 0 auto; table-layout: fixed;">
+    <tr>
+      <td width="140" align="center" style="overflow: hidden;">
+        <img src="https://postfiles.pstatic.net/MjAyNTA0MTFfMjA5/MDAxNzQ0MzQwNjc5MDE2.xoOdqz9L9lj4OYkSNYGjgaAuJkOHfWhT7qbyZjyIvL8g.LgkgBLN_-8XPn3KDV5DfVpHc_8nvqRklhfrwS9bCU9Yg.PNG/civ6logo.png?type=w966" width="100" alt="Civilization VI Logo">
+      </td>
+      <td valign="middle" style="word-wrap: break-word; overflow: hidden;">
+        <strong>문명 VI 모드 제작 및 한글화 프로젝트</strong><br/>
+        <strong>게임 텍스트 로컬라이징 및 UI/UX 최적화 경험</strong><br>
+        <strong>직접 제작한 모드 다수, 한국어 패치 포함 배포</strong><br>
+        <strong>온라인 커뮤니티를 통한 공유 및 사용자 피드백 반영</strong><br>
+        <strong>창작과 번역, 커뮤니티 기여를 동시에 경험한 프로젝트</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
