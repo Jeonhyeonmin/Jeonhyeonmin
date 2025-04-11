@@ -42,7 +42,7 @@
 
 <details>
 <summary><strong>네이버 게임 분석 블로거 & 인플루언서 활동 (2020~2023)</strong></summary>
-<div style="padding: 50px 0;">
+<div style="padding: 12px 0;">
 <ul>
   <li>네이버 인플루언서 및 파트너 스퀘어 공식 멤버 선정</li>
   <li>최상위 블로그에게만 주어지는 프리미엄 광고 캠페인 대상자</li>
