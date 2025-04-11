@@ -80,7 +80,7 @@
   <table style="width: 100%; max-width: 1200px; margin: 0 auto; table-layout: fixed;">
     <tr>
       <td width="140" align="center" style="overflow: hidden;">
-        <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/289070/header.jpg?t=1695059727" width="100" alt="Civilization VI Logo">
+        <img src="https://postfiles.pstatic.net/MjAyNTA0MTFfMjI1/MDAxNzQ0MzQ2OTQxNDIz.KX_bKrBn3On2weS9f8gHuHieLOPBPctPdrUV8TlRad0g.-qk09CFTrDzzJmCtKs7QUHb87YrYuucJt7L6z4zOh3Eg.GIF/vfron2y.gif?type=w966" width="100" alt="Civilization VI Logo">
       </td>
       <td valign="middle" style="word-wrap: break-word; overflow: hidden;">
         <strong>Sid Meier's Civilization VI 모드 개발 및 로컬라이징 프로젝트 참여</strong><br/>
