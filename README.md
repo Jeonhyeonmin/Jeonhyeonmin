@@ -114,7 +114,7 @@
   <table style="width: 100%; max-width: 1200px; margin: 0 auto; table-layout: fixed;">
     <tr>
       <td width="140" align="center" style="overflow: hidden;">
-        <img src="https://postfiles.pstatic.net/MjAyNTA0MTFfMTg3/MDAxNzQ0MzAzODczNDU1.-Tsdq9__RHpEMNTq7J02js6-iagN9hNH7kh57rpnyD8g.VOzIpe_aiRd5TrGV8wKkHNpmW6M2J8E9snk5oizI1CMg.GIF/logo.a61f5142308413b313275c691aa13c9a.gif?type=w966" width="100" alt="Motion Graphic">
+        <img src="https://postfiles.pstatic.net/MjAyNTA0MTFfMjkx/MDAxNzQ0MzU5NTAzMTQx.nN7HuU5QbJveyaWf301pyNbPq9fvqNHmlr-Q0rUmvNQg.xSy5rb3xKdTDRQiYTNCkzOMCbcoBTB09ZNhnmfCRPdAg.GIF/%EB%94%94%EC%BD%94_%EB%AF%BC%EC%9D%B4_%ED%94%84%EB%A1%9C%ED%95%84_%EC%9B%80%EC%A7%A4_%EC%B5%9C%EC%A2%85%EB%B3%B8.gif?type=w966" width="100" alt="Motion Graphic">
       </td>
       <td valign="middle" style="word-wrap: break-word; overflow: hidden;">
         <strong>After Effects 기반 모션 그래픽 GIF 프로필 제작 상점 운영 경험</strong><br/>
