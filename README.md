@@ -62,7 +62,7 @@
 <div style="width: 100%; margin: 0; border: 1px solid #ddd; padding: 10px; border-radius: 8px; box-sizing: border-box;">
   <table style="width: 100%; max-width: 800px; margin: 0 auto; table-layout: fixed;">
     <tr>
-      <td width="140" align="center" style="overflow: hidden;">
+      <td width="140" style="text-align: center; vertical-align: middle;">
         <img src="https://i.namu.wiki/i/6uPw-BTvA_YKdpp8kM-i9ylSGsRdRoOuLmcVvBrc1NB1ngh8TUSjLRSAbVxqlSBpcG1BulmMyYbFkCpPjcX0Cw.webp" width="100" alt="Unreal Logo">
       </td>
       <td valign="middle" style="word-wrap: break-word; overflow: hidden;">
