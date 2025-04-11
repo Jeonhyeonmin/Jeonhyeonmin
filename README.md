@@ -39,93 +39,33 @@
 ---
 
 ## 🏅 Achievements
-<!-- 네이버 블로그 업적 박스 -->
-<div style="width: 100%; margin: 0; border: 1px solid #ddd; padding: 10px; border-radius: 8px; box-sizing: border-box;">
-  <table style="width: 100%; max-width: 1200px; margin: 0 auto; table-layout: fixed;">
-    <tr>
-      <td width="140" align="center" style="overflow: hidden;">
-        <a href="https://in.naver.com/akkari" target="_blank">
-          <img src="https://postfiles.pstatic.net/MjAyNTA0MTFfMTg3/MDAxNzQ0MzAzODczNDU1.-Tsdq9__RHpEMNTq7J02js6-iagN9hNH7kh57rpnyD8g.VOzIpe_aiRd5TrGV8wKkHNpmW6M2J8E9snk5oizI1CMg.GIF/logo.a61f5142308413b313275c691aa13c9a.gif?type=w966" width="100" alt="Naver Partner Square"/>
-        </a>
-      </td>
-      <td valign="middle" style="word-wrap: break-word; overflow: hidden;">
-        <strong>2020년부터 네이버 게임 분석 블로거</strong>로 활동하며,<br/>
-        <strong>네이버 인플루언서와 파트너 스퀘어 공식 멤버 선정</strong><br>
-        <strong>최상위 블로그에게만 주는 프리미엄 광고 캠페인 대상자</strong>로 네이버가 발탁<br>
-        <strong>일일 방문자 75K+ 평균 체류시간 4M 30S+ 블로그 운영 경험</strong>과<br>
-        <strong>NOX, ASUS, CAMELMOUNT, XENICS 등 각종 게임 개발사와 관련사의 마케팅 팀과 협업으로 실무 경험 축적</strong>
-      </td>
-    </tr>
-  </table>
-</div>
-<!-- GCP 서버 운영 경험 업적 박스 -->
-<div style="width: 100%; margin: 0; border: 1px solid #ddd; padding: 10px; border-radius: 8px; box-sizing: border-box;">
-  <table style="width: 100%; max-width: 1200px; margin: 0 auto; table-layout: fixed;">
-    <tr>
-      <td width="140" align="center" style="overflow: hidden;">
-        <img src="https://postfiles.pstatic.net/MjAyNTA0MTFfMzkg/MDAxNzQ0MzQ0MDA0NzQ5.iwSELSi05ecSkLmPlnfgNg0yDccPYbU9qGfG54ozsKMg.8gmb380ernt8CyoWtN4L0t-QyIqdGB9fNOZGrR4inxsg.GIF/original-d6503d19e09a7f7c0ce51e1eddbdc1c2.gif?type=w966" width="100" alt="GCP Logo">
-      </td>
-      <td valign="middle" style="word-wrap: break-word; overflow: hidden;">
-        <strong>Google Cloud Platform 기반 리눅스 서버 구축 및 실전 운영</strong><br/>
-        <strong>여러 게임 서버 아키텍처 구성 및 셸 스크립트 작성과 자가 호스팅 환경 세팅</strong><br>
-        <strong>트래픽 처리, 자동 백업, 오류 복구 위한 인프라 최적화</strong><br>
-        <strong>클라우드 리소스 모니터링 및 24시간 무중단 운영 경험</strong><br>
-        <strong>DevOps 관점에서 서버 개발과 운영을 직접 경험</strong>
-      </td>
-    </tr>
-  </table>
-</div>
-<!-- 문명 VI 모드 개발 및 한글화 업적 박스 -->
-<div style="width: 100%; margin: 0; border: 1px solid #ddd; padding: 10px; border-radius: 8px; box-sizing: border-box;">
-  <table style="width: 100%; max-width: 1200px; margin: 0 auto; table-layout: fixed;">
-    <tr>
-      <td width="140" align="center" style="overflow: hidden;">
-        <img src="https://postfiles.pstatic.net/MjAyNTA0MTFfMjI1/MDAxNzQ0MzQ2OTQxNDIz.KX_bKrBn3On2weS9f8gHuHieLOPBPctPdrUV8TlRad0g.-qk09CFTrDzzJmCtKs7QUHb87YrYuucJt7L6z4zOh3Eg.GIF/vfron2y.gif?type=w966" width="100" alt="Civilization VI Logo">
-      </td>
-      <td valign="middle" style="word-wrap: break-word; overflow: hidden;">
-        <strong>Sid Meier's Civilization VI 팬 모드 개발 및 로컬라이징 프로젝트 참여</strong><br/>
-        <strong>DeepL 기반 번역 파이프라인을 활용한 모드 내 텍스트 로컬라이징 수행</strong><br>
-        <strong>커뮤니티 제작 모드의 한국어 번역 및 UI 호환성 개선 작업 수행</strong><br>
-        <strong>직접 개발한 커스텀 콘텐츠 존재 및 한글화 패치 다수 배포</strong><br>
-        <strong>카페 커뮤니티 유저들을 통한 피드백 반영 및 지속적인 품질 향상</strong>
-      </td>
-    </tr>
-  </table>
-</div>
-<!-- 텍스트 마이닝 자동화 프로젝트 업적 박스 -->
-<div style="width: 100%; margin: 0; border: 1px solid #ddd; padding: 10px; border-radius: 8px; box-sizing: border-box;">
-  <table style="width: 100%; max-width: 1200px; margin: 0 auto; table-layout: fixed;">
-    <tr>
-      <td width="140" align="center" style="overflow: hidden;">
-        <img src="https://postfiles.pstatic.net/MjAyNTA0MTFfMTE3/MDAxNzQ0MzQ3ODU1Mjc1.nCi0kwuc1Lo-LZGTf3cOBrlJcsCoLcRKd1dPF4FxXvEg.OhOg8smnAiYjSYp3Wt81vacrT08D6kr7zbUEyafjzbUg.GIF/1675537898711.gif?type=w966" width="100" alt="Text Mining Icon">
-      </td>
-      <td valign="middle" style="word-wrap: break-word; overflow: hidden;">
-        <strong>텍스트 마이닝 자동화 프로그램 개발 및 소논문 작성 경험</strong><br/>
-        <strong>Python Selenium WebDriver를 활용한 Youtube 및 Naver 뉴스와 영상 댓글 수집 웹 크롤러 직접 개발</strong><br>
-        <strong>수집 데이터로 LDA, Word2Vec, WordNet, WordCloud를 도출하는 NLP 자동 분석 파이프라인 구축</strong><br>
-        <strong>사회적 이슈 반응과 감정 분석 및 키워드 시각화를 통해 인사이트 도출</strong><br>
-        <strong>도출 된 결과로 소논문 작성 및 발표로 학술적 · 기술적 성과 모두 인정 받음</strong>
-      </td>
-    </tr>
-  </table>
-</div>
-<!-- 모션 그래픽 프로필 제작 팀 운영 업적 박스 -->
-<div style="width: 100%; margin: 0; border: 1px solid #ddd; padding: 10px; border-radius: 8px; box-sizing: border-box;">
-  <table style="width: 100%; max-width: 1200px; margin: 0 auto; table-layout: fixed;">
-    <tr>
-      <td width="140" align="center" style="overflow: hidden;">
-        <img src="https://postfiles.pstatic.net/MjAyNTA0MTFfMjkx/MDAxNzQ0MzU5NTAzMTQx.nN7HuU5QbJveyaWf301pyNbPq9fvqNHmlr-Q0rUmvNQg.xSy5rb3xKdTDRQiYTNCkzOMCbcoBTB09ZNhnmfCRPdAg.GIF/%EB%94%94%EC%BD%94_%EB%AF%BC%EC%9D%B4_%ED%94%84%EB%A1%9C%ED%95%84_%EC%9B%80%EC%A7%A4_%EC%B5%9C%EC%A2%85%EB%B3%B8.gif?type=w966" width="100" alt="Motion Graphic">
-      </td>
-      <td valign="middle" style="word-wrap: break-word; overflow: hidden;">
-        <strong>After Effects 기반 모션 그래픽 GIF 프로필 제작 상점 운영 경험</strong><br/>
-        <strong>의뢰 기반 주문 제작 및 고객 맞춤형 작업 진행</strong><br>
-        <strong>After Effects 중심의 모션 디자인 및 감각적 연출 역량 보유</strong><br>
-        <strong>지인들과 디자인 팀 운영과 주문 관리, 커뮤니케이션 등 실무형 프로젝트 수행</strong><br>
-        <strong>창작 연습과 고객 만족을 동시에 추구한 팀 프로젝트 경험</strong>
-      </td>
-    </tr>
-  </table>
-</div>
+
+### ▸ 네이버 게임 분석 블로거 & 인플루언서 활동 (2020~)
+- 네이버 인플루언서 및 파트너 스퀘어 공식 멤버 선정
+- 최상위 블로그에게만 주어지는 프리미엄 광고 캠페인 대상자
+- 일일 방문자 75,000+ / 평균 체류 시간 4분 30초 이상의 블로그 운영
+- NOX, ASUS, CAMELMOUNT, XENICS 등과의 마케팅 협업 경험
+
+### ▸ GCP 기반 리눅스 서버 운영 경험
+- Google Cloud Platform 기반 리눅스 서버 직접 구축 및 실전 운영
+- 셸 스크립트 자동화 및 트래픽 처리, 자동 백업, 무중단 운영 경험
+- 다양한 게임 서버 아키텍처 구성 및 DevOps 환경 구축 경험
+
+### ▸ 문명 VI 모드 개발 및 한글화 프로젝트 참여
+- Sid Meier's Civilization VI 커뮤니티 모드 개발 및 한글화 참여
+- DeepL 기반 번역 파이프라인 활용, UI 호환성 개선 및 커스텀 콘텐츠 개발
+- 커뮤니티 피드백을 통한 지속적인 품질 향상 및 배포 경험
+
+### ▸ 텍스트 마이닝 자동화 프로그램 개발
+- Selenium WebDriver 기반 Youtube 및 Naver 뉴스/댓글 수집 크롤러 개발
+- LDA, Word2Vec, WordNet, WordCloud 자동화 분석 파이프라인 구축
+- 감정 분석 및 키워드 시각화를 통한 사회적 이슈 분석
+- 논문 작성 및 학술 발표 경험
+
+### ▸ 모션 그래픽 프로필 제작 상점 운영
+- After Effects 기반 모션 그래픽 GIF 프로필 제작 및 주문 제작 경험
+- 고객 맞춤형 디자인과 팀 운영, 주문 관리 실무 프로젝트 수행
+- 감각적인 연출 역량 및 창작·실무 경험 모두 보유
 
 ---
 
