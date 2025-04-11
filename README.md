@@ -117,11 +117,11 @@
         <img src="https://postfiles.pstatic.net/MjAyNTA0MTFfMTg3/MDAxNzQ0MzAzODczNDU1.-Tsdq9__RHpEMNTq7J02js6-iagN9hNH7kh57rpnyD8g.VOzIpe_aiRd5TrGV8wKkHNpmW6M2J8E9snk5oizI1CMg.GIF/logo.a61f5142308413b313275c691aa13c9a.gif?type=w966" width="100" alt="Motion Graphic">
       </td>
       <td valign="middle" style="word-wrap: break-word; overflow: hidden;">
-        <strong>모션 그래픽 기반 GIF 프로필 제작 팀 상점 운영 경험</strong><br/>
-        <strong>의뢰 기반 주문제작 포트폴리오 제작 및 고객 맞춤형 작업 진행</strong><br>
+        <strong>After Effects 기반 모션 그래픽 GIF 프로필 제작 상점 운영 경험</strong><br/>
+        <strong>의뢰 기반 주문 제작 및 고객 맞춤형 작업 진행</strong><br>
         <strong>After Effects 중심의 모션 디자인 및 감각적 연출 역량 보유</strong><br>
-        <strong>디자인 팀 운영과 주문 관리, 커뮤니케이션 등 실무형 프로젝트 수행</strong><br>
-        <strong>창작과 고객 만족을 동시에 추구한 브랜딩 기반 팀 프로젝트</strong>
+        <strong>지인들과 디자인 팀 운영과 주문 관리, 커뮤니케이션 등 실무형 프로젝트 수행</strong><br>
+        <strong>창작 연습과 고객 만족을 동시에 추구한 팀 프로젝트 경험</strong>
       </td>
     </tr>
   </table>
