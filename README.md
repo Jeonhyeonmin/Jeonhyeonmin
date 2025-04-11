@@ -67,7 +67,7 @@
       </td>
       <td valign="middle" style="word-wrap: break-word; overflow: hidden;">
         <strong>Google Cloud Platform 기반 리눅스 서버 구축 및 실전 운영</strong><br/>
-        <strong>여러 게임 서버 아키텍처 구성 셸 스크립트 작성과 자가 호스팅 환경 세팅</strong><br>
+        <strong>여러 게임 서버 아키텍처 구성 및 셸 스크립트 작성과 자가 호스팅 환경 세팅</strong><br>
         <strong>트래픽 처리, 자동 백업, 오류 복구 위한 인프라 최적화</strong><br>
         <strong>클라우드 리소스 모니터링 및 24시간 무중단 운영 경험</strong><br>
         <strong>DevOps 관점에서 서버 개발과 운영을 직접 경험</strong>
