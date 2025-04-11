@@ -58,6 +58,23 @@
     </tr>
   </table>
 </div>
+<!-- GCP 서버 운영 경험 업적 박스 -->
+<div style="width: 100%; margin: 0; border: 1px solid #ddd; padding: 10px; border-radius: 8px; box-sizing: border-box;">
+  <table style="width: 100%; max-width: 1200px; margin: 0 auto; table-layout: fixed;">
+    <tr>
+      <td width="140" align="center" style="overflow: hidden;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Cloud_logo.png" width="100" alt="GCP Logo">
+      </td>
+      <td valign="middle" style="word-wrap: break-word; overflow: hidden;">
+        <strong>Google Cloud Platform을 활용한 리눅스 기반 서버 구축 경험</strong><br/>
+        <strong>Rust, Minecraft 멀티 서버를 Ubuntu 환경에서 직접 구성</strong><br>
+        <strong>자동 실행, 백업, 크래시 복구 위한 셸 스크립트 및 크론탭 설정</strong><br>
+        <strong>성능 최적화 및 커뮤니티 운영을 포함한 24시간 서버 운영 경험</strong><br>
+        <strong>인프라 관리 및 운영 경험을 통한 DevOps 감각 확보</strong>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
