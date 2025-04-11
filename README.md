@@ -41,7 +41,7 @@
 ## 🏅 Achievements
 
 <details>
-<summary><strong>▸ 네이버 게임 분석 블로거 & 인플루언서 활동 (2020~2023)</strong></summary>
+<summary><strong>네이버 게임 분석 블로거 & 인플루언서 활동 (2020~2023)</strong></summary>
 <div style="padding: 12px 0;">
 <ul>
   <li>네이버 인플루언서 및 파트너 스퀘어 공식 멤버 선정</li>
@@ -53,7 +53,7 @@
 </details>
 
 <details>
-<summary><strong>▸ Google Cloud Platform 리눅스 서버 운영 경험</strong></summary>
+<summary><strong>Google Cloud Platform 리눅스 서버 운영 경험</strong></summary>
 <div style="padding: 12px 0;">
 <ul>
   <li>GCP 기반 리눅스 서버 직접 구축 및 실전 운영 경험</li>
@@ -65,7 +65,7 @@
 </details>
 
 <details>
-<summary><strong>▸ 문명 VI 모드 개발 및 로컬라이징 프로젝트 참여</strong></summary>
+<summary><strong>문명 VI 모드 개발 및 로컬라이징 프로젝트 참여</strong></summary>
 <div style="padding: 12px 0;">
 <ul>
   <li>Sid Meier's Civilization VI 커뮤니티 팬 모드 개발 및 번역 참여</li>
@@ -77,7 +77,7 @@
 </details>
 
 <details>
-<summary><strong>▸ 텍스트 마이닝 자동화 프로젝트</strong></summary>
+<summary><strong>텍스트 마이닝 자동화 프로젝트</strong></summary>
 <div style="padding: 12px 0;">
 <ul>
   <li>Python 기반 Youtube/Naver 댓글 수집 크롤러 개발 (Selenium WebDriver)</li>
@@ -88,7 +88,7 @@
 </details>
 
 <details>
-<summary><strong>▸ 모션 그래픽 GIF 프로필 제작 팀 운영</strong></summary>
+<summary><strong>모션 그래픽 GIF 프로필 제작 팀 운영</strong></summary>
 <div style="padding: 12px 0;">
 <ul>
   <li>Adobe After Effects 활용한 감각적 모션 그래픽 프로필 주문 제작</li>
