@@ -40,34 +40,59 @@
 
 ## 🏅 Achievements
 
-### ▸ 네이버 게임 분석 블로거 & 인플루언서 활동 (2020~2023)
-- 네이버 인플루언서 및 파트너 스퀘어 공식 멤버 선정
-- 최상위 블로그에게만 주어지는 프리미엄 광고 캠페인 대상자
-- 최고 일일 방문자 75,000+ / 평균 체류 시간 4분 30초 이상의 블로그 운영
-- NOX, ASUS, CAMELMOUNT, XENICS 등 각종 게임 개발사 및 마케팅 팀과 실무 협업 경험
+<!-- 네이버 블로거 박스 -->
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin-bottom: 16px;">
+  <h3>▸ 네이버 게임 분석 블로거 & 인플루언서 활동 (2020~2023)</h3>
+  <ul>
+    <li>네이버 인플루언서 및 파트너 스퀘어 공식 멤버 선정</li>
+    <li>최상위 블로그에게만 주어지는 프리미엄 광고 캠페인 대상자</li>
+    <li>최고 일일 방문자 75,000+ / 평균 체류 시간 4분 30초 이상의 블로그 운영</li>
+    <li>NOX, ASUS, CAMELMOUNT, XENICS 등 각종 게임 개발사 및 마케팅 팀과 실무 협업 경험</li>
+  </ul>
+</div>
 
-### ▸ Google Cloud Platform 리눅스 서버 운영 경험
-- GCP 기반 리눅스 서버 직접 구축 및 실전 운영 경험
-- 게임 서버 아키텍처 구성 및 셸 스크립트 자동화
-- 트래픽 처리, 자동 백업, 오류 복구 위한 인프라 최적화
-- 24시간 무중단 클라우드 서버 환경 유지 및 DevOps 경험 축적
+<!-- GCP 박스 -->
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin-bottom: 16px;">
+  <h3>▸ Google Cloud Platform 리눅스 서버 운영 경험</h3>
+  <ul>
+    <li>GCP 기반 리눅스 서버 직접 구축 및 실전 운영 경험</li>
+    <li>게임 서버 아키텍처 구성 및 셸 스크립트 자동화</li>
+    <li>트래픽 처리, 자동 백업, 오류 복구 위한 인프라 최적화</li>
+    <li>24시간 무중단 클라우드 서버 환경 유지 및 DevOps 경험 축적</li>
+  </ul>
+</div>
 
-### ▸ 문명 VI 모드 개발 및 로컬라이징
-- Sid Meier's Civilization VI 커뮤니티 팬 모드 개발 및 번역 참여
-- DeepL 기반 번역 파이프라인 활용 및 UI 호환성 개선
-- 한국어 번역 및 한글화 패치 다수 배포, 사용자 피드백 반영
-- 직접 개발한 커스텀 콘텐츠 및 커뮤니티 품질 유지 기여
+<!-- 문명 VI 박스 -->
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin-bottom: 16px;">
+  <h3>▸ 문명 VI 모드 개발 및 로컬라이징</h3>
+  <ul>
+    <li>Sid Meier's Civilization VI 커뮤니티 팬 모드 개발 및 번역 참여</li>
+    <li>DeepL 기반 번역 파이프라인 활용 및 UI 호환성 개선</li>
+    <li>한국어 번역 및 한글화 패치 다수 배포, 사용자 피드백 반영</li>
+    <li>직접 개발한 커스텀 콘텐츠 및 커뮤니티 품질 유지 기여</li>
+  </ul>
+</div>
 
-### ▸ 텍스트 마이닝 자동화 프로젝트
-- Python 기반 Youtube/Naver 댓글 수집 크롤러 개발 (Selenium WebDriver)
-- 수집 데이터를 LDA, Word2Vec, WordNet, WordCloud로 도출하는 NLP 자동 분석 파이프라인 구축
-- 분석 결과 기반 소논문 작성 및 학술 발표로 기술적 성과 입증
+<!-- 텍스트 마이닝 박스 -->
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin-bottom: 16px;">
+  <h3>▸ 텍스트 마이닝 자동화 프로젝트</h3>
+  <ul>
+    <li>Python 기반 Youtube/Naver 댓글 수집 크롤러 개발 (Selenium WebDriver)</li>
+    <li>수집 데이터를 LDA, Word2Vec, WordNet, WordCloud로 도출하는 NLP 자동 분석 파이프라인 구축</li>
+    <li>분석 결과 기반 소논문 작성 및 학술 발표로 기술적 성과 입증</li>
+  </ul>
+</div>
 
-### ▸ 모션 그래픽 GIF 프로필 제작 팀 운영
-- After Effects 활용한 감각적 모션 그래픽 프로필 주문 제작
-- 고객 맞춤형 제작 및 의뢰 기반 프로젝트 실무 수행
-- 디자인 팀 운영, 커뮤니케이션, 일정 및 주문 관리 전반 운영
-- 예술적 감각과 실무 중심의 프로젝트 경험 모두 보유
+<!-- 모션 그래픽 박스 -->
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin-bottom: 16px;">
+  <h3>▸ 모션 그래픽 GIF 프로필 제작 팀 운영</h3>
+  <ul>
+    <li>After Effects 활용한 감각적 모션 그래픽 프로필 주문 제작</li>
+    <li>고객 맞춤형 제작 및 의뢰 기반 프로젝트 실무 수행</li>
+    <li>디자인 팀 운영, 커뮤니케이션, 일정 및 주문 관리 전반 운영</li>
+    <li>예술적 감각과 실무 중심의 프로젝트 경험 모두 보유</li>
+  </ul>
+</div>
 
 ---
 
