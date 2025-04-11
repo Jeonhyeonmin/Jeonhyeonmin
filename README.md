@@ -86,7 +86,7 @@
 ### ☁️ 서버 운영 & DevOps 경험
 
 <details>
-<summary><strong>Google Cloud Platform 리눅스 서버 운영 경험</strong></summary>
+<summary><strong>GCP 기반 게임 서버 운영 및 DevOps 경험</strong></summary>
 <div style="padding: 12px 0;">
 <ul>
   <li>GCP 기반 리눅스 서버 직접 구축 및 실전 운영 경험</li>
