@@ -97,7 +97,7 @@
   <table style="width: 100%; max-width: 1200px; margin: 0 auto; table-layout: fixed;">
     <tr>
       <td width="140" align="center" style="overflow: hidden;">
-        <img src="https://media.licdn.com/dms/image/v2/D4E12AQEpF3PO9g2WJQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1683324815205?e=2147483647&v=beta&t=0pvOoqjJxZf1B8rptFbZqOKajfpYnUXI-jO9K8jNtAA" width="100" alt="Text Mining Icon">
+        <img src="https://postfiles.pstatic.net/MjAyNTA0MTFfMTE3/MDAxNzQ0MzQ3ODU1Mjc1.nCi0kwuc1Lo-LZGTf3cOBrlJcsCoLcRKd1dPF4FxXvEg.OhOg8smnAiYjSYp3Wt81vacrT08D6kr7zbUEyafjzbUg.GIF/1675537898711.gif?type=w966" width="100" alt="Text Mining Icon">
       </td>
       <td valign="middle" style="word-wrap: break-word; overflow: hidden;">
         <strong>텍스트 마이닝 자동화 프로그램 개발 및 소논문 기재 경험</strong><br/>
