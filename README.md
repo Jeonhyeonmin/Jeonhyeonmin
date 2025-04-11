@@ -58,12 +58,15 @@
     </tr>
   </table>
 </div>
-<!-- 교내 개발 대회 업적 박스 -->
+
 <div style="width: 100%; margin: 0; border: 1px solid #ddd; padding: 10px; border-radius: 8px; box-sizing: border-box;">
   <table style="width: 100%; max-width: 800px; margin: 0 auto; table-layout: fixed;">
     <tr>
-      <td width="140" align="center" style="overflow: hidden;">
-        <img src="https://i.namu.wiki/i/6uPw-BTvA_YKdpp8kM-i9ylSGsRdRoOuLmcVvBrc1NB1ngh8TUSjLRSAbVxqlSBpcG1BulmMyYbFkCpPjcX0Cw.webp" width="100" alt="Unreal Logo">
+      <td width="140" align="center" style="overflow: hidden; vertical-align: middle;">
+        <img src="https://i.namu.wiki/i/6uPw-BTvA_YKdpp8kM-i9ylSGsRdRoOuLmcVvBrc1NB1ngh8TUSjLRSAbVxqlSBpcG1BulmMyYbFkCpPjcX0Cw.webp"
+             width="100"
+             alt="Unreal Logo"
+             style="display: inline-block; vertical-align: middle;">
       </td>
       <td valign="middle" style="word-wrap: break-word; overflow: hidden;">
         <strong>인천정보과학고등학교 교내 게임 및 소프트웨어 개발 팀 대회</strong>에서<br/>
