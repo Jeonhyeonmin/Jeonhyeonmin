@@ -100,7 +100,7 @@
         <img src="https://postfiles.pstatic.net/MjAyNTA0MTFfMTE3/MDAxNzQ0MzQ3ODU1Mjc1.nCi0kwuc1Lo-LZGTf3cOBrlJcsCoLcRKd1dPF4FxXvEg.OhOg8smnAiYjSYp3Wt81vacrT08D6kr7zbUEyafjzbUg.GIF/1675537898711.gif?type=w966" width="100" alt="Text Mining Icon">
       </td>
       <td valign="middle" style="word-wrap: break-word; overflow: hidden;">
-        <strong>고등학교 시절 텍스트 마이닝 자동화 프로그램 개발 및 소논문 작성 경험</strong><br/>
+        <strong>텍스트 마이닝 자동화 프로그램 개발 및 소논문 작성 경험</strong><br/>
         <strong>Python Selenium WebDriver를 활용한 Youtube 및 Naver 뉴스와 영상 댓글 수집 웹 크롤러 직접 개발</strong><br>
         <strong>수집 데이터로 LDA, Word2Vec, WordNet, WordCloud를 활용한 자연어 처리(NLP) 자동 분석 파이프라인 구축</strong><br>
         <strong>사회적 이슈 반응과 감정 분석 및 키워드 시각화를 통해 인사이트 도출</strong><br>
