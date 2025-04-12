@@ -55,7 +55,7 @@
 </details>
 
 <details>
-<summary><strong>문명 VI 모드 개발 및 로컬라이징 프로젝트 참여</strong></summary>
+<summary><strong>Sid Meier's Civilization VI 모드 개발 및 로컬라이징 프로젝트 참여</strong></summary>
 <div style="padding: 12px 0;">
 <ul>
   <li>Sid Meier's Civilization VI 커뮤니티 팬 모드 개발 및 번역 참여</li>
