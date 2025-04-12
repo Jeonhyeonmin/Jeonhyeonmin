@@ -71,10 +71,10 @@
 ### 🧠 데이터 분석 & 자동화 프로젝트
 
 <details>
-<summary><strong>YouTube·Naver 댓글 수집 및 자연어처리 기반 텍스트 마이닝 자동화 프로젝트</strong></summary>
+<summary><strong>YouTube · Naver 댓글 수집 및 자연어처리 기반 텍스트 마이닝 자동화 프로젝트</strong></summary>
 <div style="padding: 12px 0;">
 <ul>
-  <li>Python 기반 Youtube/Naver 댓글 수집 크롤러 개발 (Selenium WebDriver)</li>
+  <li>Python 기반 Youtube · Naver 댓글 수집 크롤러 개발 (Selenium WebDriver)</li>
   <li>수집 데이터를 LDA, Word2Vec, WordNet, WordCloud로 도출하는 NLP 자동 분석 파이프라인 구축</li>
   <li>분석 결과 기반 소논문 작성 및 학술 발표로 기술적 성과 입증</li>
 </ul>
