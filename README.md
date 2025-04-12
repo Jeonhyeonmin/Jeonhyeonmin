@@ -71,7 +71,7 @@
 ### 🧠 데이터 분석 & 자동화 프로젝트
 
 <details>
-<summary><strong>텍스트 마이닝 자동화 프로젝트</strong></summary>
+<summary><strong>YouTube·Naver 댓글 수집 및 자연어처리 기반 텍스트 마이닝 자동화 프로젝트</strong></summary>
 <div style="padding: 12px 0;">
 <ul>
   <li>Python 기반 Youtube/Naver 댓글 수집 크롤러 개발 (Selenium WebDriver)</li>
