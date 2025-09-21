@@ -95,20 +95,6 @@
 
 ---
 
-## 📊 Development Activity
-<div align="center">
-  <img src="https://ghchart.rshah.org/Jeonhyeonmin" alt="GitHub Activity Chart" width="100%"/>
-</div>
-
----
-
-## 📈 GitHub Statistics
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jeonhyeonmin&show_icons=true&count_private=true&hide_border=true&title_color=7F00FF&icon_color=E100FF&text_color=333333&bg_color=ffffff" alt="GitHub Stats"/>
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Jeonhyeonmin&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy"/>
