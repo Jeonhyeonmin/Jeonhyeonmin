@@ -1,11 +1,7 @@
-<div align="center">
-
 # Jeon Hyeonmin
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7F00FF&center=true&vCenter=true&width=435&lines=Game+Client+Developer;Crafting+Playable+Experiences;Unity+%7C+C%23+%7C+C%2B%2B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7F00FF&center=false&vCenter=true&width=435&lines=Game+Client+Developer;Crafting+Playable+Experiences;Unity+%7C+C%23+%7C+C%2B%2B" alt="Typing SVG" /></a>
 
 유저의 시선에서 게임을 깊게 분석하던 뷰어(Viewer)에서, <br>몰입감 있는 플레이 경험을 직접 설계하는 메이커(Maker)로 나아가고 있습니다.
-
-</div>
 
 <br>
 
@@ -31,7 +27,4 @@
 
 <br>
 
-<div align="center">
-  <a href="mailto:fudrim06@gmail.com"><img src="https://img.shields.io/badge/fudrim06@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://discord.com/users/0xhy6on"><img src="https://img.shields.io/badge/Discord_0xhy6on-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-</div>
+<a href="mailto:fudrim06@gmail.com"><img src="https://img.shields.io/badge/fudrim06@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://discord.com/users/0xhy6on"><img src="https://img.shields.io/badge/Discord_0xhy6on-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
