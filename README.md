@@ -1,29 +1,37 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=150&section=header&text=Game%20Client%20Developer&fontSize=50&fontColor=ffffff" width="100%"/>
+<div align="center">
 
-안녕하세요. 유저의 플레이 경험을 코드로 빚어내는 게임 클라이언트 개발자 전현민입니다.
-게임을 깊게 분석하던 리뷰어 시절의 시선을 바탕으로, 몰입감 있는 게임 플레이와 디테일을 구현하는 데 집중하고 있습니다.
+# Jeon Hyeonmin
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7F00FF&center=true&vCenter=true&width=435&lines=Game+Client+Developer;Crafting+Playable+Experiences;Unity+%7C+C%23+%7C+C%2B%2B" alt="Typing SVG" /></a>
 
-### 🛠 Tech Stack
+유저의 시선에서 게임을 깊게 분석하던 뷰어(Viewer)에서, <br>몰입감 있는 플레이 경험을 직접 설계하는 메이커(Maker)로 나아가고 있습니다.
 
-**Engine & Languages**
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+</div>
 
-**Database & Others**
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<br>
 
-**Design Tools**
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/> <img src="https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white"/> <img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=flat-square&logoColor=white"/>
+### 💻 Tech Stack
 
-### 🎮 Highlights
+| Category | Skills |
+| :--- | :--- |
+| **Core** | <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Unreal-313131?style=for-the-badge&logo=unrealengine&logoColor=white"/> |
+| **Sub** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/> |
+| **Design** | <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/> <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/> <img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logoColor=white"/> |
 
-- **네이버 게임 프리미엄 인플루언서 (2020~2023)**
-  - 누적 방문자 5,000만+ 게임 리뷰 및 분석 블로그 운영
-  - NOX, ASUS 등 다수 IT·게임 브랜드 마케팅 캠페인 실무 협업
+<br>
 
-- **Sid Meier's Civilization VI 모딩 및 로컬라이징**
-  - 커뮤니티 팬 모드 기획·개발 및 UI 호환성 개선
-  - DeepL 기반 번역 파이프라인 구축 및 한글화 패치 배포
+### 🎯 Highlights
 
-### 📬 Contact
+**Sid Meier's Civilization VI 모딩 및 로컬라이징**
+- 커뮤니티 팬 모드 기획·개발 및 UI 호환성 개선 작업
+- DeepL API 기반 번역 파이프라인 구축 및 정기적 한글화 패치 배포
 
-<a href="mailto:fudrim06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a> <a href="https://discord.com/users/0xhy6on"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
+**네이버 게임 프리미엄 인플루언서 (2020~2023)**
+- 누적 방문자 **5,000만+** 규모의 게임 분석 블로그 운영
+- NOX, ASUS 등 다수 IT/하드웨어 브랜드와 마케팅 캠페인 실무 협업
+
+<br>
+
+<div align="center">
+  <a href="mailto:fudrim06@gmail.com"><img src="https://img.shields.io/badge/fudrim06@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://discord.com/users/0xhy6on"><img src="https://img.shields.io/badge/Discord_0xhy6on-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</div>
